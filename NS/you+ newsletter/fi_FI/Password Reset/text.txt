@@ -1,0 +1,23 @@
+<%@ include view='MirrorPageUrl' %>
+
+
+
+R�initialisation du mot de passe You+Nissan
+
+
+
+HEI [NIMI]
+
+Saimme You+Nissan-salasanasi vaihtamista koskevan pyyntösi. Voit vaihtaa salasanasi napsauttamalla linkkiä
+
+
+
+CTA - VAIHDA SALASANANI TÄSTÄ
+
+Jos et ole pyytänyt salasanasi vaihtamista, jätä tämä viesti huomiotta.
+
+
+
+Ystävällisin terveisin
+
+You+Nissan-tiimi

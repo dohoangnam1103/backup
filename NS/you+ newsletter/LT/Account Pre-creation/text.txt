@@ -1,0 +1,21 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+SVEIKI,
+
+Dėkojame, kad įsigijote naują „Nissan“ automobilį!
+
+Skirkite kelias sekundes savo „You+Nissan“ profiliui sukurti ir sužinokite, kaip galima lengvai aktyvuoti ryšio paslaugas (jei teikiama) jūsų automobilyje, atnaujinti navigacijos sistemą ir pasiekti visą automobilio informaciją.
+
+Spustelėjus šią nuorodą nukreipsime į „You+Nissan“ klientų erdvę:
+
+
+AKTYVUOTI MANO „YOU+NISSAN“ PROFILĮ
+
+
+Jei aukščiau pateikta nuoroda neveikia, nukopijuokite ją ir įveskite į savo naršyklę: [nuoroda] <%=rtEvent.ctx.url %>
+
+Pagarbiai
+„You+Nissan“ komanda

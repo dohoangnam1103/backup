@@ -1,0 +1,34 @@
+<%@ include view='nissanInitVariablesMc' %> 
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Bonjour
+
+
+
+Merci d´avoir activé votre compte You+Nissan.
+
+
+
+
+Avec You+Nissan, vous pouvez maintenant profiter d’un grand nombre d’avantages clients, notamment un espace propriétaire dédié, dans lequel vous pouvez gérer vos véhicules Nissan, activer vos services connectés ou contacter votre concessionnaire.
+
+
+
+Aller sur mon compte You+Nissan
+
+
+
+Services connectés
+ 
+
+Exploitez tout le potentiel de vos services connectés et découvrez l´ensemble de nos technologies embarquées.
+
+
+
+Offres exclusives 
+
+
+
+Consultez le site internet You+Nissan et découvrez les offres qui vous sont réservées en tant que propriétaire Nissan.

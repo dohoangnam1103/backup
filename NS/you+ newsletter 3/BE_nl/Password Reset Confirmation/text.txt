@@ -1,0 +1,21 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+
+BEVESTIGING NIEUW YOU+NISSAN WACHTWOORD
+
+BESTE [NAAM],
+
+
+We zijn blij om u te kunnen meedelen dat uw You+Nissan wachtwoord opnieuw is ingesteld.
+
+U kunt inloggen op uw account door op onderstaande link te klikken.
+
+
+GA NAAR YOU+NISSAN
+
+
+Met vriendelijke groet,
+Het You+Nissan-team

@@ -1,0 +1,25 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Bästa You+Nissan-medlem,
+
+plattformen You+Nissan utvecklas för att erbjuda dig bättre tjänster, en skarpare design och högre säkerhet.
+
+För att fortsätta att använda ditt konto och hantera din bil måste du uppdatera ditt lösenord.
+
+Ändra ditt lösenord inom X dagar genom att klicka på följande länk:
+[Skapa ett nytt lösenord]
+
+Om ovanstående länk inte visas korrekt, kopiera följande länk i din webbläsare: [länk]
+
+Ditt
+You+Nissan-team
+
+
+Anslutna tj&auml;nster
+F&aring; ut det mesta av dina Anslutna tj&auml;nster och uppt&auml;ck hela utbudet av anslutna infotainmentsystem ombord.
+
+Exklusiva erbjudanden
+Bes&ouml;k din You+Nissan-sida och hitta exklusiva erbjudanden f&ouml;r dig som Nissan-&auml;gare.

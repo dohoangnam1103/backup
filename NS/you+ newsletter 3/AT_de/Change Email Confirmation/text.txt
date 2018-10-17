@@ -1,0 +1,19 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Ihre YOU+NISSAN E-Mail-Adresse wurde zurücksetzt
+
+
+Hallo,
+
+
+Ihre YOU+NISSAN E-Mail-Adresse wurde zurückgesetzt.
+
+Sie können diese E-Mail-Adresse jetzt verwenden, um sich über den Link unten in Ihrem Konto anzumelden.
+
+[CTA – YOU+NISSAN besuchen]
+
+
+Mit freundlichen Grüßen
+Ihr NISSAN Team

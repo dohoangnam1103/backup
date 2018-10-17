@@ -1,0 +1,32 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+
+ATKURTI „YOU+NISSAN“ EL. PAŠTO ADRESĄ
+
+
+
+SVEIKI [VARDAS],
+
+
+
+gavome jūsų užklausą dėl „You+Nissan“ el. pašto adreso atkūrimo. Norėdami prisijungti ir patvirtinti el. pašto adreso atkūrimą, spustelėkite žemiau esančią nuorodą.
+
+
+
+Nepamirškite, kad šio el. pašto adreso prireiks kitą kartą jungiantis prie „You+Nissan“ paskyros.
+
+
+
+CTA - ATKURTI MANO EL. PAŠTO
+ADRESĄ ČIA
+
+
+
+Jei nesiuntėte užklausos dėl el. pašto adreso atkūrimo, ignoruokite šį el. laišką.
+
+Pagarbiai
+
+„You+Nissan“

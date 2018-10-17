@@ -1,0 +1,23 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+
+BESTE [NAAM],
+
+Bedankt voor het activeren van uw You+Nissan account.
+
+
+Via You+Nissan heeft u voortaan toegang tot verschillende klantvoordelen en natuurlijk uw persoonlijke eigenaarsomgeving, waar u uw gepersonaliseerde Nissan-diensten kunt plannen, zoals periodieke onderhoudsbeurten en afspraken bij uw dealer.
+
+GA NAAR MIJN YOU+NISSAN ACCOUNT
+
+
+VERBONDEN DIENSTEN
+
+Haal het maximale uit uw verbonden diensten en ontdek ons volledige aanbod aan online infotainment-systemen in uw voertuig.
+
+EXCLUSIEVE DEALS
+
+Bezoek de You+Nissan website en ontdek exclusieve deals voor u als Nissan-eigenaar.

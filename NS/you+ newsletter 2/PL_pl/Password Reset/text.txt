@@ -1,0 +1,20 @@
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Resetowanie hasła do konta You+Nissan
+
+
+
+
+Witaj [imię],
+
+Otrzymaliśmy prośbę o zmianę hasła do konta You+Nissan. Aby to zrobić, kliknij ten odnośnik.
+
+[CTA - Zmień moje hasło tutaj]
+
+Jeżeli nie chcesz zmienić hasła, zignoruj ten e-mail.
+
+Z pozdrowieniami,
+
+Zespół You+Nissan

@@ -1,0 +1,31 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+SVEIKI,
+
+
+Bedankt dat u zich heeft aangemeld voor een You+Nissan account
+
+
+
+
+rezervuokite padangų keitimą, teiraukitės pakaitinio automobilio arba tiesiog raskite artimiausią atstovybę. Viską rasite čia - „You+Nissan“. Mes esame čia, kad pasirūpintume jūsų kasdieniais poreikiais ir atsakytume į iškilusius klausimus.
+
+
+
+AKTYVINTI MANO PASKYRĄ ČIA
+
+
+
+RYŠIO PASLAUGOS
+
+
+Mėgaukitės ryšio paslaugomis ir atraskite išsamų automobiliuose integruotų informacijos ir pramogų sistemų asortimentą.
+
+
+IŠSKIRTINIAI PASIŪLYMAI
+
+
+Apsilankykite „You+Nissan“ svetainėje ir atraskite išskirtinius „Nissan“ pasiūlymus Jums.

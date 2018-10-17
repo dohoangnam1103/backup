@@ -1,0 +1,32 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+HEI
+
+
+
+Onnekai olkoon, olet onnistuneesti aktivoinut You+Nissan-tilisi.
+
+
+
+Tilaa autollesi katsastus, asennuta talvirenkaat, pyydä sijaisauto tai etsi lähin Nissan-jälleenmyyjä, kaikki You+Nissan-portaalin kautta. Aktivoi tilisi kirjautumalla sisään alla olevan linkin kautta, ja pääset nauttimaan You+Nissanista.
+
+
+
+AKTIVOI TILINI TÄÄLTÄ
+
+
+
+
+YHTEYSPALVELUT
+
+
+Ota yhteyspalveluistasi kaikki irti, ja tutustu kattavaan nagivointi- ja tietoviihdejärjestelmään.
+
+
+AINUTLAATUISIA TARJOUKSIA
+
+
+Nissan-asiakkaana löydät You+Nissan-portaalista ainutlaatuisia tarjouksia.

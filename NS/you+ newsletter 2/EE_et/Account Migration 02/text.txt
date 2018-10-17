@@ -1,0 +1,26 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Lp You+Nissani kasutaja!
+
+Käesoleva kirjaga tuletame meelde, et peate oma salasõna uuendama, et saaksite jätkata oma auto haldamist oma You+Nissani profiilil.
+
+Käesolev You+Nissani platvormi värskendus on osa meie jätkuvatest püüdlustest pakkuda teile paremaid teenuseid, elegantsemat disaini ja suuremat turvalisust.
+
+Palun muutke oma salasõna X päeva jooksul, klõpsates selleks järgmisel lingil:
+[Uue salasõna loomine]
+
+Kui ülaltoodud linki ei kuvata õigesti, kopeerige oma veebibrauserisse järgmine aadress: [link]
+
+Lugupidamisega
+You+Nissani meeskond
+
+
+
+NissanConnecti teenused
+Kasutage maksimaalselt &auml;ra oma NissanConnecti teenuseid ja avastage &uuml;hendatud auto teabe- ja meelelahutuss&uuml;steemidega v&otilde;imalused t&auml;ies ulatuses.
+
+Eksklusiivsed pakkumised
+Teile kui Nissani omanikule m&otilde;eldud eksklusiivsete pakkumiste n&auml;gemiseks k&uuml;lastage You+Nissan veebilehte

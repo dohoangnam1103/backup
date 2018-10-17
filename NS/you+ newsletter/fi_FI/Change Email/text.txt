@@ -1,0 +1,30 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+NOLLAA YOU+NISSAN-SÄHKÖPOSTIOSOITTEESI
+
+
+
+HEI
+
+
+
+Saimme You+Nissan-sähköpostiosoitteesi nollaamista koskevan pyyntösi. Kirjaudu sisään ja vahvista sähköpostiosoitteesi nollaus alla olevan linkin kautta.
+
+
+
+Huomaa, että tarvitset tämän sähköpostiosoitteen seuraavalla kerralla kirjautuessasi You+Nissan-tilillesi.
+
+
+
+CTA - NOLLAA SÄHKÖPOSTIOSOITTEESI TÄSTÄ
+
+
+
+Jos et ole pyytänyt sähköpostiosoitteesi nollaamista, jätä tämä viesti huomiotta.
+
+Ystävällisin terveisin
+
+You+Nissan-tiimi

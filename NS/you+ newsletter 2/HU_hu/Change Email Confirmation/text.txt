@@ -1,0 +1,16 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Votre adresse e-mail You+Nissan a �t� r�initialis�e
+
+Kedves [n&eacute;v]!
+
+Nous avons le plaisir de vous informer que votre adresse e-mail You+Nissan a �t� r�initialis�e.
+
+Vous pouvez d�sormais saisir cette adresse e-mail pour vous connecter � votre compte en suivant le lien ci-dessous.
+
+Aller sur You+Nissan
+
+Bien cordialement,
+L��quipe You+Nissan

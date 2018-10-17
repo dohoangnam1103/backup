@@ -1,0 +1,17 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+SVEIKI, <%@ INCLUDE VIEW='FRGREETINGNOSAL' %>
+
+dėkojame, kad užregistravote „You+Nissan“.
+
+Registruokitės į servisą, rezervuokite padangų keitimą, teiraukitės pakaitinio automobilio arba tiesiog raskite artimiausią atstovybę. Viską rasite čia - „You+Nissan“. Mes esame čia, kad pasirūpintume jūsų kasdieniais poreikiais ir atsakytume į iškilusius klausimus.
+
+Aktyvuokite savo „You+Nissan“ paskyrą paspaudę žemiau esančią nuorodą.
+
+AKTYVINTI MANO PASKYRĄ ČIA
+
+Pagarbiai
+„You+Nissan“ komanda

@@ -1,0 +1,19 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+
+CONFIRMAÇÃO DA NOVA PALAVRA-PASSE YOU+NISSAN
+
+OLÁ [NOME],
+
+
+É com satisfação que o informamos que a sua palavra-passe You+Nissan foi redefinida.
+
+Pode iniciar sessão na sua conta clicando na ligação abaixo.
+
+IR PARA YOU+NISSAN
+
+Atenciosamente,
+A equipa You+Nissan

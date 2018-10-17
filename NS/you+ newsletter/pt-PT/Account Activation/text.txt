@@ -1,0 +1,23 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+OLÁ [NOME],
+
+
+Obrigado por ativar a sua conta You+Nissan.
+
+
+Com o You+Nissan, agora tem acesso a várias vantagens de cliente, inclusive o seu espaço dedicado de proprietário onde pode reservar serviços personalizados para o seu Nissan, incluindo check-ups sazonais e marcações no concessionário.
+
+
+IR PARA A MINHA CONTA YOU+NISSAN
+
+SERVIÇOS LIGADOS
+
+Tire o máximo proveito dos seus Serviços ligados e descubra a nossa gama completa de sistemas de infoentretenimento a bordo.
+
+OFERTAS EXCLUSIVAS
+
+Visite a página Web do You+Nissan para encontrar ofertas exclusivas para si como proprietário Nissan.

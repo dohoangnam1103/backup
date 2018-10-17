@@ -1,0 +1,28 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Szanowni Państwo,
+
+Uprzejmie przypominamy o konieczności zmiany hasła, aby móc dalej korzystać ze swojego konta You+Nissan i zarządzać swoim samochodem.
+
+Bieżąca aktualizacja platformy You+Nissan jest wyrazem naszych nieustannych starań na rzecz oferowania coraz ciekawszej szaty graficznej, lepszych usług i większego bezpieczeństwa.
+
+Prosimy zmienić hasło w ciągu X dni, klikając poniższy odsyłacz:
+[Utwórz nowe hasło]
+
+Jeżeli odnośnik powyżej nie wyświetla się prawidłowo, prosimy skopiować poniższy link i wkleić go do swojej przeglądarki: [link]
+
+Z pozdrowieniami,
+Zespół You+Nissan
+
+
+
+
+Usługi połączone
+Korzystaj z usług połączonych i odkryj wszystkie możliwości naszych system&oacute;w informacyjno-rozrywkowych.
+
+
+Ekskluzywne oferty
+Zapraszamy na stronę You+Nissan, gdzie można znaleźć ekskluzywne oferty przygotowane specjalnie z myślą o właścicielach samochod&oacute;w Nissan.

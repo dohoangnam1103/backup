@@ -1,0 +1,26 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+HYVÄ YOU+NISSAN-JÄSEN,
+
+Tämä on muistutus siitä, että salasanasi on päivitettävä, jotta voit jatkaa You+Nissan-tilisi käyttöä.
+
+Kehitämme You+Nissan-portaalia, jotta voimme tarjota käyttöösi entistä parempia palveluja, älykkäämpää muotoilua ja parempaa käyttäjäkokemusta.
+
+Vaihda salasanasi X päivän kuluessa napsauttamalla seuraavaa linkkiä:
+
+LUO UUSI SALASANA
+
+
+Jos yllä oleva linkki ei näy oikein, kopioi seuraava linkki selaimeesi: [linkki]
+
+Ystävällisin terveisin
+You+Nissan-tiimi
+
+YHTEYSPALVELUT
+Ota yhteyspalveluistasi kaikki irti, ja tutustu kattavaan nagivointi- ja tietoviihdejärjestelmään.
+
+AINUTLAATUISIA TARJOUKSIA
+Nissan-asiakkaana löydät You+Nissan-portaalista ainutlaatuisia tarjouksia.

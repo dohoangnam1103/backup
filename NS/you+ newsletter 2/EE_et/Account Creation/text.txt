@@ -1,0 +1,12 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+"Hea [nimi]
+
+Täname, et aktiveerisite oma You+Nissan konto.
+
+You+Nissan konto abil pääsete ligi paljudele kliendieelistele, sh omanikukeskkonnale, kus saate tellida oma Nissanile isikupärastatud teenuseid, sh hooajalist ülevaatust ja kohtumisaega müügiesinduses.
+
+[CTA - Liikuge oma You+Nissan kontole]"

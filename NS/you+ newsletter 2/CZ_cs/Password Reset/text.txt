@@ -1,0 +1,20 @@
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Obnovení hesla k účtu You+Nissan
+
+
+
+
+Dobrý den,
+
+dostali jsme žádost o obnovení Vašeho hesla k účtu You+Nissan. Obnovení provedete pomocí následujícího odkazu.
+
+[CTA – Obnovení hesla zde]
+
+Pokud jste o obnovení hesla nežádal/a, tento e-mail prosím ignorujte.
+
+S pozdravem
+
+tým You+Nissan

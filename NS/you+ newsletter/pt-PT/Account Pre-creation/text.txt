@@ -1,0 +1,32 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+OLÁ [NOME],,
+
+
+Obrigado por comprar um veículo Nissan!
+
+
+Dedique alguns segundos a criar o seu perfil You+Nissan e saiba como ativar facilmente os serviços associados ao seu veículo, atualizar o seu sistema de navegação e aceder a todas as informações do seu veículo.
+
+
+Clique no link seguinte para começar a utilizar o seu espaço de cliente You+Nissan:
+
+ATIVAR O MEU PERFIL YOU+NISSAN
+
+Se não consegue abrir correctamente o link anterior, copie o seguinte link para o seu navegador web: [ligação] <%=rtEvent.ctx.url %>
+
+
+Atenciosamente,
+A equipa You+Nissan
+
+
+SERVIÇOS LIGADOS
+
+Tire o máximo proveito dos seus Serviços ligados e descubra a nossa gama completa de sistemas de infoentretenimento a bordo.
+
+OFERTAS EXCLUSIVAS
+
+Visite a página Web do You+Nissan para encontrar ofertas exclusivas para si como proprietário Nissan.

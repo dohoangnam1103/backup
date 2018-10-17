@@ -1,0 +1,19 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+O SEU E-MAIL YOU+NISSAN FOI REDEFINIDO
+
+
+OLÁ [NOME],
+
+
+É com satisfação que o informamos que o seu endereço de e-mail You+Nissan foi redefinido.
+
+
+Agora pode usar este endereço de e-mail para iniciar sessão na sua conta seguindo a ligação abaixo.
+
+IR PARA YOU+NISSAN
+
+Atenciosamente,
+A equipa You+Nissan

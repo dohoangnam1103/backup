@@ -1,0 +1,25 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Stimato/a cliente YOU+NISSAN,
+
+la piattaforma YOU+NISSAN si evolve per offrirti servizi sempre migliori, un design più accattivante e maggiore sicurezza.
+
+Per continuare a usare il tuo account e a gestire la tua auto, dovrai aggiornare la tua password.
+
+Cambia la tua password entro X giorni cliccando sul seguente link:
+[Crea una nuova password]
+
+Se non visualizzi correttamente il link in alto, copia quello che segue sul tuo browser: [link]
+
+Cordialmente,
+Il team YOU+NISSAN
+
+
+
+Servizi connessi
+Ottieni il massimo dai tuoi Servizi connessi, e scopri la nostra gamma completa di sistemi connessi di infotainment all&rsquo;interno dell&rsquo;auto.
+
+Offerte esclusive
+Visita il sito web YOU+NISSAN e scopri le offerte esclusive per te come proprietario NISSAN.

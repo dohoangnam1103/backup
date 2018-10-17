@@ -1,0 +1,29 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+
+UUDEN YOU+NISSAN-SALASANAN VAHVISTUS
+
+
+
+HEI [NIMI]
+
+
+
+You+Nissan-salasanasi on vaihdettu onnistuneesti.
+
+
+
+Voit kirjautua tilillesi napsauttamalla alla olevaa linkkiä.
+
+
+
+CTA - SIIRRY YOU+NISSANIIN
+
+
+
+Ystävällisin terveisin
+
+You+Nissan-tiimi

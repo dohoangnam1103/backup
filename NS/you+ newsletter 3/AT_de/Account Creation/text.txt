@@ -1,0 +1,28 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Hallo,
+
+
+Wir möchten uns für Ihre Registrierung bei YOU+NISSAN ganz herzlich bedanken.
+
+
+Um die Vorteile von YOU+NISSAN nutzen zu können, müssen Sie zunächst Ihr Konto aktivieren, indem Sie auf den Link unten klicken.
+
+
+
+CTA – Mein Konto hier aktivieren
+
+
+Mit freundlichen Grüßen,
+Ihr NISSAN Team
+
+
+Connected Services
+Nutzen Sie die Connected Services optimal aus und lernen Sie unser komplettes Angebot an verbundenen Infotainment-Systemen im Fahrzeug kennen.
+
+
+Exklusive Angebote
+Besuchen Sie die YOU+NISSAN Website und entdecken Sie exklusive Angebote für NISSAN Besitzer.
+

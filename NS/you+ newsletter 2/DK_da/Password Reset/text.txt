@@ -1,0 +1,20 @@
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Nulstilling af adgangskode til You+Nissan
+
+
+
+
+"Hej [navn]
+
+Vi har modtaget din anmodning om nulstilling af din adgangskode til You+Nissan. Følg venligst linket for at nulstille din adgangskode.
+
+[CTA - Nulstil min adgangskode her]
+
+Har du ikke bedt om nulstilling af din adgangskode, så se venligst bort fra denne e-mail.
+
+Med venlig hilsen
+
+You+Nissan"

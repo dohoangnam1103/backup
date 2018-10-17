@@ -1,0 +1,18 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+E-postadressen för ditt You+Nissan-konto har återställts
+
+
+Hej [namn]!
+
+Vi är glada att kunna informera dig om att e-postadressen för ditt You+Nissan-konto har återställts.
+
+Du kan nu använda denna e-postadress för att logga in på ditt konto genom att följa länken nedan.
+
+[CTA - Gå till You+Nissan]
+
+Ditt
+
+You+Nissan-team

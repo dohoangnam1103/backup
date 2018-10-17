@@ -1,0 +1,23 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Ripristina il tuo indirizzo e-mail You+Nissan
+
+
+
+
+Ciao [nome],
+
+abbiamo ricevuto la richiesta di ripristinare il tuo indirizzo e-mail You+Nissan. Segui il link in fondo per accedere e confermare il ripristino del tuo indirizzo e-mail.
+
+Attenzione, questo indirizzo email ti sarà richiesto la prossima volta che tenterai di accedere al tuo account You+Nissan.
+
+[CTA - Ripristina il mio indirizzo e-mail qui]
+
+Se non hai chiesto di ripristinare il tuo indirizzo e-mail, ignora questa e-mail.
+
+Cordialmente,
+
+Il team You+Nissan

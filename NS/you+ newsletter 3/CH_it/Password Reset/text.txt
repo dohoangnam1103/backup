@@ -1,0 +1,20 @@
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Ripristino della password YOU+NISSAN
+
+
+
+
+Ciao [nome],
+
+abbiamo ricevuto la tua richiesta di ripristinare la password di YOU+NISSAN. Segui il link per ripristinare la tua password.
+
+[CTA - Ripristina la mia password qui]
+
+Se non hai chiesto di ripristinare la tua password, ignora questa e-mail.
+
+Cordialmente,
+
+Il team YOU+NISSAN

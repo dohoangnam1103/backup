@@ -1,0 +1,16 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+YOU+NISSAN-SÄHKÖPOSTISI ON VAIHDETTU
+
+HEI
+
+You+Nissan-sähköpostiosoitteesi on vaihdettu onnistuneesti.
+
+Voit nyt käyttää tätä sähköpostiosoitetta kirjautumiseen tilillesi alla olevan linkin avulla.
+
+SIIRRY YOU+NISSANIIN
+
+Ystävällisin terveisin
+You+Nissan-tiimi

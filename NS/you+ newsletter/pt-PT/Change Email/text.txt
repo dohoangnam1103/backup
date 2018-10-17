@@ -1,0 +1,24 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+REDEFINIR O SEU ENDEREÇO DE E-MAIL YOU+NISSAN
+
+
+OLÁ [NOME],
+
+
+Recebemos o seu pedido de redefinição do endereço de e-mail You+Nissan. Siga a ligação abaixo para iniciar sessão e confirmar a sua redefinição de endereço de e-mail.
+
+
+Tenha em atenção que este endereço de e-mail será pedido da próxima vez que iniciar sessão na sua conta You+Nissan.
+
+
+REDEFINIR AQUI O MEU
+ENDEREÇO DE E-MAIL	spacer
+
+Se não solicitou redefinir o seu endereço de e-mail, então ignore este e-mail.
+
+
+Atenciosamente,
+A equipa You+Nissan

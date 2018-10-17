@@ -1,0 +1,23 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+YOU+NISSAN Bestätigung für neues Passwort
+
+
+
+Hallo,
+
+
+Ihr YOU+NISSAN Passwort wurde zurückgesetzt.
+
+Bitte klicken Sie auf den Link unten, um sich in Ihrem Konto anzumelden.
+
+[CTA – YOU+NISSAN besuchen]
+
+
+Mit freundlichen Grüßen
+
+Ihr NISSAN Team
+

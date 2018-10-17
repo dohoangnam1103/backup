@@ -1,0 +1,23 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+YOU+NISSAN E-Mail-Adresse zurücksetzen
+
+
+
+Hallo [Name],
+
+wir haben Ihre Anfrage zum Zurücksetzen Ihrer YOU+NISSAN E-Mail-Adresse erhalten. Bitte klicken Sie auf den Link unten, um sich anzumelden und das Zurücksetzen Ihrer E-Mail-Adresse zu bestätigen.
+
+Bitte beachten Sie, dass diese E-Mail-Adresse bei der nächsten Anmeldung in Ihrem YOU+NISSAN Konto benötigt wird.
+
+[CTA – Meine E-Mail-Adresse hier zurücksetzen]
+
+Wenn Sie Ihre E-Mail-Adresse nicht zurücksetzen möchten, können Sie diese E-Mail ignorieren.
+
+Mit freundlichen Grüßen
+
+Das YOU+NISSAN Team
+

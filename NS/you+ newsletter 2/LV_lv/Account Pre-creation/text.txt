@@ -1,0 +1,18 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Sveicināti!
+
+Pateicamies, ka iegādājāties Nissan automobili!
+
+Dažās sekundēs izveidojiet savu You+Nissan profilu un noskaidrojiet kā viegli aktivizēt Jūsu auto savienotos pakalpojumus, atjaunināt Jūsu navigācijas sistēmu un piekļūt visai Jūsu auto informācijai.
+
+Noklikšķiniet uz tālāk norādītās saites, lai sāktu izmantot Jūsu You+Nissan klienta vietu:
+[Aktivizēt manu You+Nissan profilu]
+
+Ja iepriekš norādītā saite netiek attēlota pareizi, lūdzu iekopējiet savā tīmekļa pārlūkā tālāk norādīto saiti: [saite]
+
+Ar cieņu,
+You+Nissan komanda

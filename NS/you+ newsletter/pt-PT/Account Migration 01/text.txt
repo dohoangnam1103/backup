@@ -1,0 +1,31 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+CARO MEMBRO YOU+NISSAN,
+
+A plataforma You+Nissan foi desenvolvida para lhe oferecer melhores serviços, um design mais intuitivo e mais segurança.
+
+
+É necessário que atualize a sua palavra-passe para poder continuar a usar a sua conta e gerir o seu veículo.
+
+
+Click na seguinte link para alterar a sua palavra-passe num prazo de X dias:
+
+
+CRIE UMA NOVA PALAVRA-PASSE
+
+Se não consegue abrir correctamente o link anterior, copie o seguinte link para o seu navegador web: [ligação]
+
+
+Atenciosamente,
+A equipa You+Nissan
+
+SERVIÇOS LIGADOS
+
+Tire o máximo proveito dos seus Serviços ligados e descubra a nossa gama completa de sistemas de infoentretenimento a bordo.
+
+OFERTAS EXCLUSIVAS
+
+Visite a página Web do You+Nissan para encontrar ofertas exclusivas para si como proprietário Nissan.

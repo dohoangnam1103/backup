@@ -1,0 +1,21 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Conferma della nuova password YOU+NISSAN
+
+
+
+
+Ciao [nome],
+
+siamo lieti di informarti che la tua password YOU+NISSAN è stata ripristinata.
+
+Puoi accedere al tuo account cliccando sul link che segue.
+
+[CTA - Vai su YOU+NISSAN]
+
+Cordialmente,
+
+Il team YOU+NISSAN

@@ -1,0 +1,18 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+"Tere!
+
+Täname, et soetasite Nissani sõiduki!
+
+Leidke mõned sekundid oma You+Nissani profiili loomiseks ja lisateabe saamiseks selle kohta, kuidas oma auto ühendatud teenused aktiveerida, navigatsioonisüsteemi värskendada ja kõiki sõiduki andmeid kasutada.
+
+Klõpsake järgmisel lingil, et alustada oma You+Nissan kliendikeskkonna kasutamist:i
+[Aktiveeri minu You+Nissani profiil]
+
+Kui ülaltoodud linki ei kuvata õigesti, kopeerige oma veebibrauserisse järgmine aadress: [link]
+
+Lugupidamisega
+You+Nissani meeskond"

@@ -1,0 +1,18 @@
+<%@ include view='MirrorPageUrl' %>
+
+
+
+REDEFINIÇÃO DA PALAVRA-PASSE YOU+NISSAN
+
+OLÁ [NOME],
+
+Recebemos o seu pedido de redefinição da palavra-passe You+Nissan. Siga a ligação para redefinir a sua palavra-passe.
+
+
+REDEFINIR AQUI A MINHA PALAVRA-PASSE
+
+Se não solicitou redefinir a sua palavra-passe, então ignore este e-mail.
+
+
+Atenciosamente,
+A equipa You+Nissan

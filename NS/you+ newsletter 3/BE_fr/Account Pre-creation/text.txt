@@ -1,0 +1,19 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Bonjour,
+
+Nous vous remercions d’avoir fait l’acquisition de votre Nissan.
+
+Prenez quelques instants pour créer votre compte You+Nissan et découvrir comment activer facilement les services connectés de votre voiture, mettre à jour votre système de navigation et accéder à toutes les informations concernant votre véhicule.
+
+Cliquez sur le lien suivant pour commencer à utiliser votre espace client You+Nissan :
+
+Activer mon profil You+Nissan 
+
+Si le lien précédent ne s’affiche pas correctement, veuillez copier le lien suivant dans votre navigateur : <%=rtEvent.ctx.url %>
+
+Bien cordialement, 
+L’équipe You+Nissan

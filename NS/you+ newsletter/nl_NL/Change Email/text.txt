@@ -1,0 +1,26 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+
+RESET UW YOU+NISSAN E-MAILADRES
+
+
+BESTE [NAAM],
+
+
+We hebben uw verzoek voor het resetten van uw You+Nissan e-mailadres goed ontvangen. Klik op onderstaande link om in te loggen en om het resetten van uw e-mailadres te bevestigen.
+
+
+Let op, de volgende keer dat u inlogt op uw You+Nissan account is dit e-mailadres verplicht.
+
+RESET MIJN
+E-MAILADRES HIER	spacer
+
+
+Als u geen verzoek hebt ingediend voor het resetten van uw e-mailadres, negeer deze e-mail dan.
+
+
+Met vriendelijke groet,
+You+Nissan team

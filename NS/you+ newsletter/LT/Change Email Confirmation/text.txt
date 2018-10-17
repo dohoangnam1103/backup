@@ -1,0 +1,16 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+„YOU+NISSAN“ EL. PAŠTAS ATKURTAS
+
+SVEIKI,
+
+džiaugiamės galėdami pranešti, kad jūsų „You+Nissan“ el. pašto adresas atkurtas.
+
+Dabar spustelėję nuorodą žemiau galėsite prisijungti prie savo paskyros naudodami šį el. pašto adresą.
+
+PEREITI PRIE „YOU+NISSAN“
+
+Pagarbiai
+„You+Nissan“

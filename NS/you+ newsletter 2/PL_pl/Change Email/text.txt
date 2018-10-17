@@ -1,0 +1,22 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Zmiana adresu e-mail dla konta You+Nissan
+
+
+
+
+Witaj [imię],
+
+Otrzymaliśmy prośbę o zmianę adresu e-mail dla konta You+Nissan. Kliknij poniższy odnośnik, aby zalogować się do swojego konta i potwierdzić zmianę e-maila.
+
+Przypominamy, że ten adres e-mail będzie wymagany podczas kolejnego logowania się do konta You+Nissan.
+
+[CTA - Zmień mój adres e-mail tutaj]
+
+Jeżeli nie chcesz zmienić adresu, zignoruj ten e-mail.
+
+Z pozdrowieniami,
+
+Zespół You+Nissan

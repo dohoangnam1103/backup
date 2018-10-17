@@ -1,0 +1,18 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+UW YOU+NISSAN E-MAILADRES IS GERESET
+
+
+BESTE [NAAM],
+
+We zijn blij om u mee te kunnen delen dat uw You+Nissan e-mailadres opnieuw is ingesteld.
+
+
+Klik op onderstaande link en log met dit e-mailadres in op uw account.
+
+
+GA NAAR YOU+NISSAN
+
+Met vriendelijke groet,
+Het You+Nissan-team

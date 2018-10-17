@@ -1,0 +1,20 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+HEI
+
+Kiitos, että ostit Nissan-ajoneuvon!
+
+
+Ota hetki You+Nissan-profiilin luomiseen, jotta pääset vaivattomasti aktivoimaan autosi yhteyspalvelut, päivittää navigointijärjestelmäsi ja tarkastelemaan kaikkia ajoneuvosi tietoja.
+
+Aloita You+Nissan-asiakastilasi käyttö napsauttamalla seuraavaa linkkiä:
+
+AKTIVOI YOU+NISSAN-PROFIILINI
+
+Jos yllä oleva linkki ei näy oikein, kopioi seuraava linkki selaimeesi: [linkki] <%=rtEvent.ctx.url %>
+
+Ystävällisin terveisin
+You+Nissan-tiimi

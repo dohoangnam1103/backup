@@ -1,0 +1,22 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+"Sveicināti, [vārds],
+
+Pateicamies Jums par reģistrāciju Jūsu You+Nissan kontā, Jūsu personalizētajā tiešsaistes klientu pakalpojumu centrā. Pasūtiet tehnisko apkopi, uzlieciet ziemas riepas, pieprasiet maiņas automobili vai vienkārši atrodiet tuvāko dīleri - to visu var paveikt ar You+Nissan palīdzību. Mēs šeit atrodamies, lai palīdzētu Jums ikdienas problēmu un jautājumu risināšanā.
+
+Lai uzsāktu You+Nissan lietošanu, lūdzu, aktivizējiet savu kontu, noklikšķinot uz zemāk redzamās saites.
+
+[CTA - Kontu var aktivizēt šeit]
+
+
+
+
+Saistītie pakalpojumi
+Izmantojiet &scaron;os pakalpojumus pilnā apjomā uz iepazīstiet mūsu automobiļos pieejamās informatīvi izklaidējo&scaron;ās sistēmas.
+
+
+Ekskluzīvi piedāvājumi
+Apmeklējiet You+Nissan interneta vietni, lai iepazītos ar ekskluzīviem piedāvājumiem Jums kā Nissan īpa&scaron;niekam.

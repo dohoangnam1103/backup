@@ -1,0 +1,26 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Ciao [nome],
+
+grazie per aver registrato il tuo account YOU+NISSAN, il tuo hub personalizzato per i servizi per il cliente online.
+
+Per iniziare a utilizzare YOU+NISSAN attiva il tuo account accedendo con il link che segue.
+
+[CTA - Attiva il mio account qui]
+
+Cordialmente,
+
+Il team YOU+NISSAN
+
+
+
+
+
+Servizi connessi
+Ottieni il massimo dai tuoi Servizi connessi, e scopri la nostra gamma completa di sistemi connessi di infotainment all&rsquo;interno dell&rsquo;auto.
+
+
+Offerte esclusive
+Visita il sito web YOU+NISSAN e scopri le offerte esclusive per te come proprietario NISSAN.

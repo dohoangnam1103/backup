@@ -1,0 +1,19 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+„YOU+NISSAN“ NAUJO SLAPTAŽODŽIO PATVIRTINIMAS
+
+
+"SVEIKI [VARDAS],
+
+džiaugiamės galėdami pranešti, kad jūsų „You+Nissan“ slaptažodis atkurtas.
+
+
+Prisijungti prie paskyros galite spustelėję žemiau esančią nuorodą.
+
+PEREITI PRIE „YOU+NISSAN“
+
+Pagarbiai
+„You+Nissan“ komanda

@@ -1,0 +1,32 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+BESTE YOU+NISSAN GEBRUIKER,
+
+Het You+Nissan-platform is volop in ontwikkeling om u betere diensten, een strakker design en meer veiligheid te bieden.
+
+
+U moet uw wachtwoord bijwerken om uw account te kunnen blijven gebruiken en uw auto te beheren.
+
+
+Wijzig uw wachtwoord binnen 5 dagen door op de volgende link te klikken:
+
+
+MAAK EEN NIEUW WACHTWOORD AAN
+
+Wordt de bovenstaande link niet goed weergegeven? Kopieer dan de volgende link in uw webbrowser: [link]
+
+
+Met vriendelijke groet,
+Het You+Nissan-team
+
+
+VERBONDEN DIENSTEN
+
+Haal het maximale uit uw verbonden diensten en ontdek ons volledige aanbod aan online infotainment-systemen in uw voertuig.
+
+EXCLUSIEVE DEALS
+
+Bezoek de You+Nissan website en ontdek exclusieve deals voor u als Nissan-eigenaar.

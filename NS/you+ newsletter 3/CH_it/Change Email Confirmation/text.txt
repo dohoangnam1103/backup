@@ -1,0 +1,18 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Ihre YOU+NISSAN E-Mail-Adresse wurde zur�cksetzt
+
+
+"Ciao [nome],
+
+siamo lieti di informarti che il tuo indirizzo e-mail YOU+NISSAN è stato ripristinato.
+
+Ora puoi usare questo indirizzo e-mail per accedere al tuo account usando il link che segue.
+
+[CTA - Vai su YOU+NISSAN]
+
+Cordialmente,
+
+Il team YOU+NISSAN"

@@ -1,0 +1,26 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+
+GERB. „YOU+NISSAN“ NARY,
+
+primename, kad norėdami ir toliau tvarkyti savo automobilio duomenis „You+Nissan“ profilyje, turite atnaujinti savo slaptažodį.
+
+Dabartinis platformos „You+Nissan“ naujinimas yra mūsų nuolatinių pastangų siūlyti jums geresnes paslaugas, dailesnį dizainą ir daugiau saugos, dalis.
+
+Pakeiskite savo slaptažodį per X d. – paspauskite šią nuorodą:
+
+SUKURTI NAUJĄ SLAPTAŽODĮ
+
+Jei aukščiau pateikta nuoroda tinkamai nerodoma, nukopijuokite šią nuorodą ir įveskite į savo naršyklę: [nuoroda]
+
+Pagarbiai
+„You+Nissan“ komanda
+
+RYŠIO PASLAUGOS
+Mėgaukitės ryšio paslaugomis ir atraskite išsamų automobiliuose integruotų informacijos ir pramogų sistemų asortimentą.
+
+IŠSKIRTINIAI PASIŪLYMAI
+Apsilankykite „You+Nissan“ svetainėje ir atraskite išskirtinius „Nissan“ pasiūlymus Jums.

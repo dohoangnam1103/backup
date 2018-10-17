@@ -1,0 +1,21 @@
+<%@ include view='MirrorPageUrl' %>
+
+
+
+YOU+NISSAN Passwort zurücksetzen
+
+
+
+
+"Hallo,
+
+
+wir haben Ihre Anfrage zum Zurücksetzen Ihres YOU+NISSAN Passworts erhalten. Bitte klicken Sie auf den Link, um Ihr Passwort zurückzusetzen.
+
+[CTA – Mein Passwort hier zurücksetzen]
+
+Wenn Sie Ihr Passwort nicht zurücksetzen möchten, können Sie diese E-Mail ignorieren.
+
+
+Mit freundlichen Grüßen
+Ihr NISSAN Team"

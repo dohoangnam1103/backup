@@ -1,0 +1,20 @@
+<%@ include view='MirrorPageUrl' %>
+
+
+
+You+Nissan återställning av lösenord
+
+
+
+
+Hej [namn]!
+
+Vi har mottagit din begäran om återställning av ditt You+Nissan-lösenord. Följ länken nedan för att återställa ditt lösenord.
+
+[CTA - Återställ mitt lösenord här]
+
+Ignorera detta e-postmeddelande om du inte har begärt en återställning av ditt lösenord.
+
+Ditt
+
+You+Nissan-team
