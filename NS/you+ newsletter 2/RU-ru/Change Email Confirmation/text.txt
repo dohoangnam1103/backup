@@ -1,0 +1,16 @@
+﻿<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Адрес электронной почты в системе You+Nissan изменен
+
+Bonjour
+
+Nous avons le plaisir de vous informer que votre adresse e-mail You+Nissan a été réinitialisée.
+
+Vous pouvez désormais saisir cette adresse e-mail pour vous connecter à votre compte en suivant le lien ci-dessous.
+
+переход на сайт You+Nissan
+
+С уважением,
+L´équipe You+Nissan

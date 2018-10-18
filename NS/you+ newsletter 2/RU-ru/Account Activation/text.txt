@@ -1,0 +1,34 @@
+﻿<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Bonjour
+
+
+
+Благодарим за активацию учетной записи You+Nissan
+
+
+
+
+Avec You+Nissan, vous pouvez maintenant profiter d’un grand nombre d’avantages clients, notamment un espace propriétaire dédié, dans lequel vous pouvez gérer vos véhicules Nissan, activer vos services connectés ou contacter votre concessionnaire.
+
+
+
+переход в учетную запись You+Nissan
+
+
+
+Services connectés
+
+
+Максимально используйте возможности подключаемых служб и откройте для себя весь спектр наших автомобильных информационно-мультимедийных систем.
+
+
+
+Эксклюзивные предложения
+
+
+
+Посетите веб-сайт You+Nissan и узнайте об эксклюзивных предложениях, которые доступны для вас как для владельца автомобиля Nissan.

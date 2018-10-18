@@ -1,0 +1,29 @@
+﻿<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Подтверждение нового пароля You+Nissan
+
+
+
+Здравствуйте, [имя]!
+
+
+
+Мы рады сообщить, что сброс Вашего пароля в системе You+Nissan выполнен. été réinitialisé.
+
+
+
+Vous pouvez vous connecter à votre compte en cliquant sur le lien ci-dessous.
+
+
+
+CTA - переход на сайт You+Nissan
+
+
+
+С уважением,
+
+
+Команда You+Nissan

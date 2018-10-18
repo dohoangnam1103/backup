@@ -1,0 +1,24 @@
+﻿<%@ include view='MirrorPageUrl' %>
+
+
+
+Réinitialisation du mot de passe You+Nissan
+
+
+
+Здравствуйте, [имя]!
+
+Nous avons bien reçu la demande de réinitialisation de votre mot de passe You+Nissan. Merci de suivre ce lien pour réinitialiser votre mot de passe.
+
+
+
+CTA - Réinitialiser mon mot de passe ici
+
+Ne prenez pas en compte cet e-mail si vous n’avez pas demandé la réinitialisation de votre mot de passe.
+
+
+
+С уважением,
+
+
+Команда You+Nissan

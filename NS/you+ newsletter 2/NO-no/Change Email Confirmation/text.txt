@@ -1,0 +1,16 @@
+﻿<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+E-postadressen knyttet til You+Nissan-kontoen din er endret
+
+Bonjour
+
+Nous avons le plaisir de vous informer que votre adresse e-mail You+Nissan a été réinitialisée.
+
+Vous pouvez désormais saisir cette adresse e-mail pour vous connecter à votre compte en suivant le lien ci-dessous.
+
+Gå til You+Nissan
+
+Hilsen,
+L´équipe You+Nissan
