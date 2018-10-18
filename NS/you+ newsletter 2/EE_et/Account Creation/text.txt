@@ -3,10 +3,10 @@
 
 
 
-"Hea [nimi]
+Hea [nimi],
 
-Täname, et aktiveerisite oma You+Nissan konto.
+täname, et aktiveerisite oma You+Nissan konto.
 
-You+Nissan konto abil pääsete ligi paljudele kliendieelistele, sh omanikukeskkonnale, kus saate tellida oma Nissanile isikupärastatud teenuseid, sh hooajalist ülevaatust ja kohtumisaega müügiesinduses.
+You+Nissan konto abil pääsete ligi paljudele kliendieelistele, teid ootavad eripakkumised, erakorralised sooduspakkumised ja just teie vajadustele vastavad teenused.
 
-[CTA - Liikuge oma You+Nissan kontole]"
+[CTA - Liikuge oma You+Nissan kontole]

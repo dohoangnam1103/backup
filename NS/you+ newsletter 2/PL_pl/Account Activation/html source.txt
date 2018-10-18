@@ -324,6 +324,25 @@ cellPadding=0>
                                   </TABLE>
                                 </TD>
                               </TR>
+                              <tr height="24">
+                                <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif" alt="spacer" style="max-height: 24px;"></td>
+                              </tr>
+                              <tr>
+                                <td>
+                                  <table cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody>
+                                      <tr>
+                                        <td width="3"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif" alt="spacer" style="max-width: 3px;"></td>
+                                        <td style="font-size: 16px; color: #9f9f9f;">
+                                          <p>
+                                            Z pozdrowieniami, <br>Zesp&oacute;ł You+Nissan</p>
+                                        </td>
+                                        <td width="3"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif" alt="spacer" style="max-width: 3px;"></td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
                               <TR height=41>
                                 <TD><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                               </TR>

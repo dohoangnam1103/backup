@@ -5,7 +5,7 @@
 
 "Witamy!
 
-Dziękujemy za zakup Nissana!
+Dziękujemy za zakup Nissana [MODEL]!
 
 Zachęcamy do poświęcenia kilku chwil, aby utworzyć profil You+Nissan i zobaczyć jak łatwo można aktywować samochodowe usługi internetowe, zaktualizować system nawigacji i uzyskać dostęp do wszystkich informacji o pojeździe.
 
@@ -15,4 +15,4 @@ Kliknij poniższy odsyłacz, aby zacząć korzystać z platformy dla klientów 
 Jeżeli odnośnik powyżej nie wyświetla się prawidłowo, prosimy skopiować poniższy link i wkleić go do swojej przeglądarki: [link]
 
 Z pozdrowieniami,
-Zespół You+Nissan"
+Zesp&oacute;ł You+Nissan"

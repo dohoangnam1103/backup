@@ -205,7 +205,7 @@ cellPadding=0>
   <TBODY>
   <TR>
     <TD><![endif]-->
-  <DIV style="DISPLAY: none">Kas taotlesite oma salas&otilde;na l&auml;htestamist?</DIV>
+  <DIV style="DISPLAY: none">Nissani klienditeenuste personaliseerimine</DIV>
   <TABLE width="100%" align=center style="MAX-WIDTH: 600px" bgColor=#efefef cellSpacing=0 cellPadding=0>
     <TBODY>
       <tr>
@@ -213,7 +213,7 @@ cellPadding=0>
           <table align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff" width="100%" style="max-width: 600px;">
             <tr>
               <td class="textT" align="center"><span style="color:#000001; font-size:9px; font-family:Arial, Helvetica, sans-serif;"><b>Tere tulemast Nissanisse </b><br/><br/>
-                Kui teile ei kuvata seda e-kirja õigesti,  <a href="&lt;%@ include view='MirrorPageUrl' %&gt;" target="_blank" title="click here" style="font-family:Arial; font-size:9px; color:#000001;" _label="click here">klõpsake siin.</a><br/><br/></span></td>
+                Kui te ei näe seda kirja õigesti,   <a href="&lt;%@ include view='MirrorPageUrl' %&gt;" target="_blank" title="click here" style="font-family:Arial; font-size:9px; color:#000001;" _label="click here">klõpsake siin.</a><br/><br/></span></td>
             </tr>
           </table>
           <table cellpadding="0" cellspacing="0" width="100%">
@@ -291,7 +291,7 @@ cellPadding=0>
                                       <TR>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                         <TD style="FONT-SIZE: 16px; COLOR: #9f9f9f; TEXT-ALIGN: center">
-                                          <P>You+Nissan konto abil p&auml;&auml;sete ligi paljudele kliendieelistele, sh omanikukeskkonnale, kus saate tellida oma Nissanile isikup&auml;rastatud teenuseid, sh hooajalist &uuml;levaatust ja kohtumisaega m&uuml;&uuml;giesinduses.</P>
+                                          <P>You+Nissan konto abil p&#228;&#228;sete ligi paljudele kliendieelistele, teid ootavad eripakkumised, erakorralised sooduspakkumised ja just teie vajadustele vastavad teenused.</P>
                                         </TD>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                       </TR>

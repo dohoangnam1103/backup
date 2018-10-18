@@ -2,11 +2,11 @@
 
 
 You+Nissan salasõna lähtestamine
-Kas taotlesite oma salasõna lähtestamist?
-You+Nissan salasõna lähtestamine
-"Hea [nimi]
 
-Meile saabus teie You+Nissan salasõna lähtestamise taotlus. Salasõna lähtestamiseks järgige linki.
+
+Hea [nimi],
+
+meile saabus teie You+Nissan salasõna lähtestamise taotlus. Salasõna lähtestamiseks järgige linki.
 
 [CTA - Lähtestage minu salasõna siin]
 
@@ -14,4 +14,4 @@ Juhul, kui te ei taotlenud salasõna lähtestamist, siis jätke see meil tähele
 
 Tervitustega
 
-teie You+Nissan meeskond"
+teie You+Nissan meeskond
