@@ -1,0 +1,18 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Vaše e-mailová adresa k účtu You+Nissan byla obnovena
+
+
+Dobrý den,
+
+s potěšením vám oznamujeme, že Vaše e-mailová adresa k účtu You+Nissan byla obnovena.
+
+Nyní ji můžete použít pro přihlášení k účtu, stačí kliknout na níže uvedený odkaz.
+
+[CTA – Přejít na You+Nissan]
+
+S pozdravem
+
+You+Nissan

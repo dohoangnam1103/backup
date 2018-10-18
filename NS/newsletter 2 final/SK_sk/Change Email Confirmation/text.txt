@@ -1,0 +1,18 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Váš e-mail You+Nissan sa obnovil
+
+
+Dobrý deň [meno],
+
+s radosťou Vám oznamujeme, že Vaša e-mailová adresa You+Nissan sa obnovila.
+
+Teraz môžete použiť túto e-mailovú adresu na prihlásenie do Vášho účtu tak, že prejdete na nižšie uvedené prepojenie.
+
+[CTA - Prejsť na You+Nissan]
+
+S pozdravom
+
+Tím You+Nissan

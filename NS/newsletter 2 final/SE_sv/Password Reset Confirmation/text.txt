@@ -1,0 +1,20 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+You+Nissan bekräftelse av nytt lösenord
+
+
+
+Hej [namn]!
+
+Vi är glada att kunna informera dig om att ditt You+Nissan-lösenord har återställts.
+
+Du kan logga in i ditt konto genom att klicka på länken nedan.
+
+[CTA - Gå till You+Nissan]
+
+Ditt
+
+You+Nissan-team

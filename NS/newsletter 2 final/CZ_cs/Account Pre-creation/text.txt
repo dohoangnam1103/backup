@@ -1,0 +1,18 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Dobrý den,
+
+Děkujeme, že jste zakoupili vůz [MODDEL]!
+
+Věnujte chvilku vytvoření účtu You+Nissan. Díky němu budete moci snadno aktivovat služby připojení vašeho vozu, aktualizovat navigační systém a získat přístup ke všem informacím o vozidle.
+
+Po kliknutí na následující odkaz budete moci začít využívat prostor pro klienty You+Nissan:
+[Aktivovat můj profil You+Nissan]
+
+Pokud není odkaz uvedený výše správně zobrazen, zkopírujte následující odkaz do webového prohlížeče: [odkaz]
+
+S pozdravem
+tým You+Nissan

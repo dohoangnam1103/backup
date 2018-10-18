@@ -1,0 +1,17 @@
+﻿<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Hei!
+
+Takk for at du kjøper en [MODELL]!
+
+Bruk et par minutter på å sette opp en You+Nissan-profil, og finn ut hvordan du aktiverer bilens tilkoblede tjenester, oppdaterer navigasjonssystemet og får tilgang til all informasjon om bilen.
+
+Klikk på følgende lenke for å begynne å bruke ditt You+Nissan-kundeområde:
+[Aktiver min You+Nissan-profil]
+
+Hvis du har problemer med å åpne lenken ovenfor, kan du kopiere og lime den direkte inn i nettleseren:  [lenke]
+
+Hilsen
+You+Nissan-teamet

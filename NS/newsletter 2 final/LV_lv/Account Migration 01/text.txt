@@ -1,0 +1,28 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+God. You+Nissan dalībniek!
+
+You+Nissan platforma tiek attīstīta, lai varētu Jums piedāvāt labākus pakalpojumus, izteiksmīgāku dizainu un lielāku drošību.
+
+Lai turpinātu lietot savu kontu un pārvaldītu savu auto, Jums jānomaina parole.
+
+Lūdzu X dienu laikā nomainiet savu paroli, noklikšķinot uz šīs saites:
+[Izveidot jaunu paroli]
+
+Ja iepriekš norādītā saite netiek attēlota pareizi, lūdzu iekopējiet savā tīmekļa pārlūkā tālāk norādīto saiti: [saite]
+
+Ar cieņu,
+You+Nissan komanda
+
+
+
+
+Saistītie pakalpojumi
+
+Izmantojiet šos pakalpojumus pilnā apjomā uz iepazīstiet mūsu automobiļos pieejamās informatīvi izklaidējošās sistēmas.
+
+
+Ekskluzīvi piedāvājumi
+
+Apmeklējiet You+Nissan interneta vietni, lai iepazītos ar ekskluzīviem piedāvājumiem Jums kā Nissan īpašniekam.

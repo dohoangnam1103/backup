@@ -1,0 +1,25 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Dobrý deň [meno],
+
+ďakujeme za zaregistrovanie Vášho účtu You+Nissan, Vášho prispôsobeného centra online klientskych služieb. Zarezervujte si svoj MOT, nechajte si prezuť zimné pneumatiky, požiadajte o náhradné vozidlo, prípadne si jednoducho vyhľadajte svojho najbližšieho predajcu, a to všetko cez You+Nissan. Sme tu, aby sme reagovali na Vaše každodenné potreby a otázky.
+
+Ak si chcete začať užívať You+Nissan, aktivujte svoj účet prihlásením sa cez nižšie uvedené prepojenie.
+
+[CTA - Aktivovať môj účet tu]
+
+S pozdravom
+
+Tím You+Nissan
+
+
+
+
+Prepojen&eacute; služby
+Z&iacute;skajte maximum z Va&scaron;ich prepojen&yacute;ch služieb a objavte cel&yacute; rad prepojen&yacute;ch informačno-z&aacute;bavn&yacute;ch syst&eacute;mov do vozidla.
+
+
+Exkluz&iacute;vne ponuky
+Nav&scaron;t&iacute;vte webov&uacute; str&aacute;nku You+Nissan, aby ste na&scaron;li exkluz&iacute;vne ponuky pre V&aacute;s, ako vlastn&iacute;ka vozidla Nissan

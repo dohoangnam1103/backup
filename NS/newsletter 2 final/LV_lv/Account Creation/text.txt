@@ -1,0 +1,12 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Sveicināti, [vārds],
+
+Pateicamies Jums par You+Nissan konta aktivizēšanu.
+
+Pateicoties You+Nissan, Jums tagad pieejamas vairākas klientu priekšrocības, tajā skaitā Jums īpaši iedalīta vieta īpašnieku reģistrā, kur Jūs varat pasūtīt individualizētus pakalpojumus savam Nissan, piemēram, sezonālās pārbaudes un tikšanos ar dīleri.
+
+[CTA - Doties uz manu You+Nissan kontu]

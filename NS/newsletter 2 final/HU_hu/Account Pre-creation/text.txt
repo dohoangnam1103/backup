@@ -1,0 +1,17 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Üdvözöljük!
+
+Köszönjük, hogy Nissan járművet vásárolt!
+
+Szánjon néhány percet arra, hogy létrehozza You+Nissan-profilját, és megtudja, milyen egyszerű az autója online szolgáltatásainak aktiválása, a navigációs rendszer frissítése és az összes jármű-információ elérése.
+
+Kattintson az alábbi hivatkozásra a You+Nissan ügyfélterület használatának megkezdéséhez.
+[Saját You+Nissan-profil aktiválása]
+
+Ha a fenti hivatkozás nem jelenik meg megfelelően, kérjük, másolja a következő hivatkozást a webböngészőjébe: [hivatkozás]
+
+Tisztelettel:
+A You+Nissan csapata
