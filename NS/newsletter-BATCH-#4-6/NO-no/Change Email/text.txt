@@ -1,0 +1,31 @@
+﻿<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+ENDRE E-POSTADRESSEN KNYTTET TIL YOU+NISSAN-KONTOEN DIN
+
+
+
+Hei [navn]!
+
+
+
+Vi har mottatt forespørselen om å endre e-postadressen din. Følg linken nedenfor for å logge inn på You+Nissan og bekrefte at du ønsker å endre e-postadressen din.
+
+
+
+Vær oppmerksom på at du må bruke denne e-postadressen neste gang du logger deg inn på You+Nissan-kontoen din.
+
+
+
+CTA - ENDRE E-POSTADRESSE HER
+
+
+
+
+Hvis du ikke ba om få endre e-posten din kan du se bort ifra denne e-posten.
+
+Hilsen,
+
+You+Nissan-teamet

@@ -1,0 +1,19 @@
+<%@ include view='MirrorPageUrl' %>
+
+
+
+You+Nissan jelszó visszaállítása
+
+
+
+Kedves [név]!
+
+Megkaptuk a You+Nissan jelszavának visszaállítására vonatkozó kérelmét. Kérjük, kövesse az alábbi hivatkozást a jelszó visszaállításához.
+
+[Itt tudja visszaállítani a jelszavát]
+
+Ha Ön nem kérte a jelszó visszaállítását, hagyja figyelmen kívül ezt az e-mailt.
+
+Tisztelettel:
+
+A You+Nissan csapata

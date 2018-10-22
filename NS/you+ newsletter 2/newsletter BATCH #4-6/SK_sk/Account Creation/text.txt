@@ -1,0 +1,12 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+"Dobrý deň [meno],
+
+ďakujeme, že ste si aktivovali svoj účet You+Nissan.
+
+S You+Nissan budete mať prístup k celému radu klientskych výhod, a to vrátane Vášho vyhradeného priestoru vlastníka, kde si môžete zarezervovať prispôsobené služby pre Vaše vozidlo Nissan, a to vrátane sezónnych kontrol a návštev u predajcu.
+
+[CTA - Prejsť na môj účet You+Nissan]"

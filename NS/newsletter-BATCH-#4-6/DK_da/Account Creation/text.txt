@@ -1,0 +1,12 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Hej [navn]
+
+Tak for aktiveringen af din konto hos You+Nissan.
+
+Gennem You+Nissan har du nu adgang til en række fordele som kunde, herunder dit helt eget ejerområde, hvor du kan bestille skræddersyede tjenester til din Nissan, bl.a. regelmæssige eftersyn og aftaler hos forhandleren.
+
+[CTA - Gå til min konto hos You+Nissan]

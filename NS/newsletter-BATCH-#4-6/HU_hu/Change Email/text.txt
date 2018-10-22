@@ -1,0 +1,23 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+You+Nissan e-mail-cím módosítása
+
+
+
+
+Kedves [név]!
+
+Megkaptuk a You+Nissan e-mail-címének módosítására vonatkozó kérelmét. Kövesse az alábbi hivatkozást, jelentkezzen be, majd erősítse meg az e-mail-címének módosítását.
+
+Kérjük, ne feledje, hogy ezt az e-mail-címet kell majd használnia, amikor legközelebb bejelentkezik a You+Nissan fiókjába.
+
+[Itt tudja módosítani az e-mail-címét]
+
+Ha Ön nem kérte az e-mail-cím módosítását, hagyja figyelmen kívül ezt az e-mailt.
+
+Tisztelettel:
+
+You+Nissan

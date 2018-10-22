@@ -1,0 +1,12 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Hej [namn]!
+
+Tack för att du aktiverar ditt You+Nissan-konto.
+
+Med ditt You+Nissan har du nu tillgång till en stort antal kundförmåner, bland annat ett dedikerat ägarutrymme där du kan boka personanpassad service för din Nissan, samt säsongskontroller och ägarskapsmöten.
+
+[CTA - Gå till mitt You+Nissan-konto]

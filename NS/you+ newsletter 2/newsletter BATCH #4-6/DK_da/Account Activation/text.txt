@@ -1,0 +1,26 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Hej [navn]
+
+Tak for din tilmelding med din konto hos You+Nissan, din personlige central for online kundetjenester. Bestil bilsyn, få skiftet til vinterdæk, bestil en lånebil eller find din nærmeste forhandler - alt sammen gennem You+Nissan. Vi er her for at imødekomme dine daglige behov og spørgsmål.
+
+For at få glæde af You+Nissan bedes du aktivere din konto ved at logge ind gennem linket herunder.
+
+[CTA - Aktivér min konto her]
+
+Med venlig hilsen
+
+You+Nissan
+
+
+
+Aller sur mon compte You+Nissan
+
+
+Online tjenester
+F&aring; mest muligt ud af dine onlinetjenester, og oplev hele vores udvalg af indbyggede online systemer til oplysning og underholdning.
+
+Eksklusive tilbud
+Bes&oslash;g hjemmesiden for You+Nissan og find eksklusive tilbud til dig som Nissan-ejer.

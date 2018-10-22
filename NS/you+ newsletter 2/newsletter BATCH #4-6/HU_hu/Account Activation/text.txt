@@ -1,0 +1,27 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Kedves [név]!
+
+Köszönjük, hogy You+Nissan fiókot regisztrált, hogy hozzáférjen a személyre szabott online ügyfélszolgáltatások központjához. Időpontot foglalhat műszaki vizsgára, téli gumik felszerelésére, csereautót kérhet, és megkeresheti a legközelebbi márkakereskedést, mindezt a You+Nissan segítségével. Azért vagyunk itt, hogy segítsünk Önnek és válaszoljunk a kérdéseire.
+
+Jelentkezzen be az alábbi hivatkozás segítségével a You+Nissan fiókjának aktiválásához, és máris élvezheti a szolgáltatásokat.
+
+[Itt tudja aktiválni a fiókját]
+
+Tisztelettel:
+
+A You+Nissan csapata
+
+
+
+
+
+Online szolg&aacute;ltat&aacute;sok
+Hozza ki a legt&ouml;bbet az online szolg&aacute;ltat&aacute;sokb&oacute;l, &eacute;s fedezze fel a fed&eacute;lzeti online infotainment rendszerek teljes k&iacute;n&aacute;lat&aacute;t.
+
+
+Exkluz&iacute;v aj&aacute;nlatok
+Keresse fel a You+Nissan weboldalt, ahol Nissan-tulajdonosk&eacute;nt exkluz&iacute;v aj&aacute;nlatokban r&eacute;szes&uuml;lhet.

@@ -1,0 +1,18 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Адрес электронной почты в системе You+Nissan изменен
+
+
+Kedves [név]!
+
+Örömmel közöljük, hogy sikeresen módosította You+Nissan e-mail-címét.
+
+Ezzel az e-mail-címmel tud bejelentkezni fiókjába, ha követi az alábbi hivatkozást.
+
+[Ugrás a You+Nissan oldalára]
+
+Tisztelettel:
+
+You+Nissan

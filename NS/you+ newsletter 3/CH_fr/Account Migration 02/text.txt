@@ -1,0 +1,28 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Cher/Chère membre You+Nissan,
+
+Nous vous rappelons que vous devez modifier votre mot de passe pour continuer à utiliser votre compte You+Nissan et gérer certaines fonctionnalités de votre véhicule.
+
+Cette nouvelle mise à niveau de la plate-forme You+Nissan s’inscrit dans le cadre de nos efforts permanents pour vous proposer des services encore plus performants, un design plus lisible et une sécurité renforcée.
+
+Veuillez changer votre mot de passe dans les X prochains jours en cliquant sur le lien suivant :
+[Créer un nouveau mot de passe]
+
+Si le lien précédent ne s’affiche pas correctement, veuillez copier le lien suivant dans votre navigateur : [lien]
+
+Bien cordialement,
+L’équipe You+Nissan
+
+
+
+Services connect&eacute;s
+Exploitez tout le potentiel de vos services connect&eacute;s et d&eacute;couvrez l'ensemble de nos technologies
+embarqu&eacute;es.
+
+Offres exclusives
+Consultez le site internet You+Nissan et d&eacute;couvrez les offres qui vous sont r&eacute;serv&eacute;es en tant que
+propri&eacute;taire Nissan.

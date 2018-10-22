@@ -1,0 +1,20 @@
+﻿<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Bekreftelse på nytt You+Nissan-passord
+
+
+
+Hei [navn]!
+
+You+Nissan-passordet ditt er tilbakestilt.
+
+Du kan logge deg inn på kontoen ved å klikke på linken nedenfor.
+
+[CTA – Gå til You+Nissan]
+
+Hilsen,
+
+You+Nissan-teamet

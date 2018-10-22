@@ -1,0 +1,14 @@
+<%@ include view='MirrorPageUrl' %>
+
+
+Sveicināti, [vārds],
+
+Mēs esam saņēmuši Jūsu lūgumu nomainīt Jūsu You+Nissan paroli. Lai nomainītu paroli, lūdzu, sekojiet šai saitei.
+
+[CTA - Nomainīt manu paroli šeit]
+
+Ja Jūs neesat lūdzis nomainīt savu paroli, lūdzu, ignorējiet šo e-pastu.
+
+Jūsu
+
+You+Nissan komanda

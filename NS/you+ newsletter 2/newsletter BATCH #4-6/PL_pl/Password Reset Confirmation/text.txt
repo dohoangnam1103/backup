@@ -1,0 +1,19 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Potwierdzenie nowego hasła You+Nissan
+
+
+
+"Witaj [imię],
+
+Z radością informujemy, że Twoje hasło do konta You+Nissan zostało zmienione.
+
+Aby zalogować się do swojego konta, kliknij poniższy odnośnik.
+
+[CTA - Przejdź do You+Nissan]
+
+Z pozdrowieniami,
+
+Zesp&oacute;ł You+Nissan"

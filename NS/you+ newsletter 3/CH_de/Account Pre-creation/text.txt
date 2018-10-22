@@ -1,0 +1,25 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Hallo,
+
+Vielen Dank, dass Sie einen [MODELL] gekauft haben!
+
+Bitte nehmen Sie sich einen Moment Zeit, um Ihr YOU+NISSAN Profil zu erstellen und zu erfahren, wie Sie die Connected Services Ihres Fahrzeugs ganz einfach aktivieren, das Navigationssystem aktualisieren und auf alle Fahrzeuginformationen zugreifen können.
+
+Klicken Sie auf den folgenden Link, um den YOU+NISSAN Kundenbereich zu öffnen:
+[Mein YOU+NISSAN Profil aktivieren]
+
+Falls der Link oben nicht korrekt angezeigt wird, kopieren Sie bitte den folgenden Link in die Adresszeile Ihres Browsers: [Link]
+
+Mit freundlichen Grüßen
+Das YOU+NISSAN Team
+
+
+Connected Services
+Nutzen Sie die Connected Services optimal aus und lernen Sie unser komplettes Angebot an verbundenen Infotainment-Systemen im Fahrzeug kennen.
+
+
+Exklusive Angebote
+Besuchen Sie die YOU+NISSAN Website und entdecken Sie exklusive Angebote f&uuml;r NISSAN Besitzer.

@@ -1,0 +1,12 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Bonjour,
+
+Merci d’avoir activé votre compte You+Nissan.
+
+Avec You+Nissan, vous pouvez maintenant profiter d’un grand nombre d’avantages clients, notamment un espace propriétaire dédié, dans lequel vous pouvez réserver des services personnalisés pour votre Nissan, tels que les révisions et les rendez-vous chez votre concessionnaire.
+
+[CTA - Aller sur mon compte You+Nissan]

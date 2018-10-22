@@ -1,0 +1,24 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Dobrý den,
+
+děkujeme, že jste si zaregistroval/a účet You+Nissan – online rozcestník klientských služeb. Prostřednictvím účtu You+Nissan si můžete zarezervovat návštěvu technické kontroly, přezutí na zimní pneumatiky či žádost o náhradní vůz nebo snadno vyhledat nejbližšího prodejce. Jsme připraveni pomoci se vším, co můžete potřebovat.
+
+Účet You+Nissan prosím nejprve aktivujte pomocí níže uvedeného odkazu.
+
+[CTA – Aktivovat můj účet]
+
+S pozdravem
+
+tým You+Nissan
+
+
+
+Služby připojen&iacute;
+Z&iacute;skejte z&nbsp;připojen&yacute;ch služeb co nejv&iacute;c a objevte kompletn&iacute; nab&iacute;dku na&scaron;ich informačně-z&aacute;bavn&iacute;ch syst&eacute;mů.
+
+Exkluzivn&iacute; nab&iacute;dky
+Pod&iacute;vejte se na str&aacute;nky You+Nissan a projděte si exkluzivn&iacute; nab&iacute;dky pouze pro majitele vozů Nissan.

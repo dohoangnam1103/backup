@@ -1,0 +1,29 @@
+<%@ include view='nissanInitVariablesMc' %> 
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Confirmation du nouveau mot de passe You+Nissan
+
+
+
+Bonjour,
+
+
+
+Nous avons le plaisir de vous informer que votre mot de passe You+Nissan a été réinitialisé.
+
+
+
+Vous pouvez vous connecter à votre compte en cliquant sur le lien ci-dessous.
+
+
+
+CTA - Aller sur You+Nissan
+
+
+
+Bien cordialement,
+
+
+L’équipe You+Nissan

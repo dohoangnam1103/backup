@@ -1,0 +1,30 @@
+﻿<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Réinitialiser votre adresse e-mail You+Nissan
+
+
+
+Hei [navn]!
+
+
+
+Nous avons bien reçu votre demande de réinitialisation de votre adresse e-mail You+Nissan. Suivez le lien ci-dessous pour vous connecter et confirmer la réinitialisation de votre adresse e-mail.
+
+
+
+Veuillez noter que cette adresse e-mail vous sera demandée la prochaine fois que vous vous connecterez à votre compte You+Nissan.
+
+
+
+CTA - Réinitialiser mon adresse e-mail ici
+
+
+
+Ne prenez pas en compte cet e-mail si vous n’avez pas demandé à réinitialiser votre adresse e-mail.
+
+Hilsen,
+
+You+Nissan-teamet

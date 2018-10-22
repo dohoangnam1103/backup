@@ -1,0 +1,15 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Sveicināti, [vārds],
+
+Mēs ar prieku paziņojam Jums, ka Jūsu You+Nissan reģistrētā e-pasta adrese ir nomainīta.
+
+Tagad Jūs varat izmantot šo e-pasta adresi, lai pieteiktos savā kontā, noklikšķinot uz zemāk redzamas saites.
+
+[CTA - Doties uz You+Nissan]
+
+Jūsu
+
+You+Nissan

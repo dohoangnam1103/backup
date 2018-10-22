@@ -1,0 +1,26 @@
+﻿<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Til deg som er You+Nissan-medlem
+
+You+Nissan-plattformen videreutvikles for å tilby deg bedre tjenester, et bedre design og mer sikkerhet.
+
+For å kunne fortsette å bruke kontoen og administrere bilen din må du oppdatere passordet ditt.
+
+Vi ber deg derfor om å bytte passordet ditt innen X dager ved å klikke på følgende lenke:
+
+Opprett et nytt passord
+
+Hvis du har problemer med å åpne lenken ovenfor, kan du kopiere og lime den direkte inn i nettleseren : [lenke]
+
+Hilsen,
+You+Nissan-teamet
+
+
+TILKOBLEDE TJENESTER
+Få mest mulig ut av dine tilkoblede tjenester, og oppdag vårt komplette utvalg av infotainment-systemer til bilen.
+
+Eksklusive tilbud
+Ta turen innom You+Nissan-nettstedet for å finne eksklusive tilbud kun beregnet på deg som eier en Nissan.

@@ -1,0 +1,20 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Hallo,
+
+danke, dass Sie Ihr YOU+NISSAN Konto aktiviert haben.
+
+Mit YOU+NISSAN können Sie zahlreiche Kundenvorteile nutzen, wie z. B. den persönlichen Kundenbereich, in dem Sie personalisierte Services wie saisonale Kontrollen und Händlertermine vereinbaren können.
+
+[CTA – Mein YOU+NISSAN Konto besuchen]
+
+
+
+Connected Services
+Nutzen Sie die Connected Services optimal aus und lernen Sie unser komplettes Angebot an verbundenen Infotainment-Systemen im Fahrzeug kennen.
+
+
+Exklusive Angebote
+Besuchen Sie die YOU+NISSAN Website und entdecken Sie exklusive Angebote f�r NISSAN Besitzer.

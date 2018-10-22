@@ -1,0 +1,21 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Potvrzení nového hesla k účtu You+Nissan
+
+
+
+
+Dobrý den,
+
+s potěšením Vám oznamujeme, že Vaše heslo k účtu You+Nissan bylo obnoveno.
+
+Ke svému účtu se můžete přihlásit pomocí níže uvedeného odkazu.
+
+[CTA – Přejít na You+Nissan]
+
+S pozdravem
+
+tým You+Nissan

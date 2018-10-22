@@ -1,0 +1,28 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+Tisztelt You+Nissan-tag!
+
+ A You+Nissan platform fejlesztésével jobb szolgáltatásokat, modernebb kialakítást és biztonságosabb használatot kínálunk.
+
+A fiókja megtartásához és az autója kezeléséhez frissítenie kell a jelszavát.
+
+Kérjük, X napon belül módosítsa a jelszavát az alábbi hivatkozásra kattintva:
+[Új jelszó létrehozása]
+
+Ha a fenti hivatkozás nem jelenik meg megfelelően, kérjük, másolja a következő hivatkozást a webböngészőjébe: [hivatkozás]
+
+Tisztelettel:
+A You+Nissan csapata
+
+
+
+
+Online szolg&aacute;ltat&aacute;sok
+Hozza ki a legt&ouml;bbet az online szolg&aacute;ltat&aacute;sokb&oacute;l, &eacute;s fedezze fel a fed&eacute;lzeti online infotainment rendszerek teljes k&iacute;n&aacute;lat&aacute;t.
+
+
+Exkluz&iacute;v aj&aacute;nlatok
+Keresse fel a You+Nissan weboldalt, ahol Nissan-tulajdonosk&eacute;nt exkluz&iacute;v aj&aacute;nlatokban r&eacute;szes&uuml;lhet.

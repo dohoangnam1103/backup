@@ -1,0 +1,24 @@
+﻿<%@ include view='MirrorPageUrl' %>
+
+
+
+TILBAKESTILLING AV YOU+NISSAN-PASSORDET
+
+
+
+Hei [navn]!
+
+Vi har mottatt forespørselen om å tilbakestille ditt You+Nissan-passord. Klikk på linken nedenfor for å tilbakestille passordet ditt.
+
+
+
+CTA - TILBAKESTILL PASSORDET HER
+
+Hvis du ikke ba om å tilbakestille passordet ditt kan du se bort ifra denne e-posten.
+
+
+
+Hilsen,
+
+
+You+Nissan-teamet

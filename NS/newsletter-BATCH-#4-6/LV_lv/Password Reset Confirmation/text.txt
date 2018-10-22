@@ -1,0 +1,28 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+
+YOU+NISSAN JAUNĀS PAROLES APSTIPRINĀŠANA
+
+
+
+
+SVEICINĀTI, [VĀRDS],
+
+
+
+Mēs ar prieku paziņojam Jums, ka Jūsu You+Nissan parole ir nomainīta.
+
+
+
+Jūs tagad varat pieteikties savā kontā, noklikšķinot uz zemāk redzamās saites.
+
+
+
+DOTIES UZ YOU+NISSAN
+
+
+
+Jūsu,
+You+Nissan komanda

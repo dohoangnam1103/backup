@@ -1,0 +1,18 @@
+﻿<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+E-postadressen knyttet til You+Nissan-kontoen din er endret
+
+
+HEI [NAVN]!
+
+
+E-postadressen knyttet til You+Nissan-kontoen din er endret.
+
+Du kan nå bruke denne e-postadressen til å logge deg inn på kontoen din ved å klikke på denne linken.
+
+Gå til You+Nissan
+
+Hilsen,
+You+Nissan-teamet

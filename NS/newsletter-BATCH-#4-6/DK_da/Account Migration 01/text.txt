@@ -1,0 +1,24 @@
+<%@ include view='nissanInitVariablesMc' %>
+<%@ include view='MirrorPageUrl' %>
+
+
+Kære medlem af You+Nissan
+
+Platformen bag You+Nissan udvikler sig, så vi kan tilbyde dig bedre services, et skarpere design og større sikkerhed.
+
+For at kunne fortsætte brugen af din konto og administrere din bil er du nødt til at opdatere din adgangskode.
+
+Ret venligst din adgangskode inden for X dage ved at klikke på følgende link:
+[Opret en ny adgangskode]
+
+Hvis ovenstående link ikke vises korrekt, kan du kopiere følgende webadresse til adressefeltet i din browser: [link]
+
+Med venlig hilsen
+You+Nissan
+
+
+Online tjenester
+F&aring; mest muligt ud af dine onlinetjenester, og oplev hele vores udvalg af indbyggede online systemer til oplysning og underholdning.
+
+Eksklusive tilbud
+Bes&oslash;g hjemmesiden for You+Nissan og find eksklusive tilbud til dig som Nissan-ejer.
