@@ -189,6 +189,8 @@
       }
     }
   </STYLE>
+
+  <META content=IE=edge http-equiv=X-UA-Compatible>
   <!--[if mso]>
 <style type="text/css">
 body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
@@ -198,15 +200,16 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
 
 <BODY>
   <%@ include view='nissanInitVariablesMc' %>
+
   <!--[if mso | IE]>
-<TABLE width=600 align=center style="WIDTH: 600px" border=0 cellSpacing=0
-cellPadding=0>
+<TABLE style="WIDTH: 600px" cellSpacing=0 cellPadding=0 width=600 align=center
+border=0>
   <TBODY>
   <TR>
     <TD><![endif]-->
-  <DIV style="DISPLAY: none">Szem&eacute;lyre szabott Nissan &uuml;gyf&eacute;lszolg&aacute;ltat&aacute;sok
+  <DIV style="DISPLAY: none">Aktiv&aacute;lja a Nissan-fi&oacute;kj&aacute;t egyetlen kattint&aacute;ssal!
   </DIV>
-  <TABLE width="100%" align=center style="MAX-WIDTH: 600px" bgColor=#efefef cellSpacing=0 cellPadding=0>
+  <TABLE style="MAX-WIDTH: 600px" cellSpacing=0 cellPadding=0 width="100%" align=center bgColor=#efefef>
     <TBODY>
       <tr>
         <td align="center">
@@ -239,26 +242,27 @@ cellPadding=0>
       </tr>
       <TR>
         <TD>
-          <TABLE width="100%" cellSpacing=0 cellPadding=0>
+          <TABLE cellSpacing=0 cellPadding=0 width="100%">
             <TBODY>
               <TR height=24>
                 <TD><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
               </TR>
             </TBODY>
           </TABLE>
-          <TABLE width="92%" align=center bgColor=#fff cellSpacing=0 cellPadding=0>
+          <TABLE cellSpacing=0 cellPadding=0 width="92%" align=center bgColor=#fff>
             <TBODY>
               <TR>
-                <TD><IMG width="100%" alt=image-top src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/image-top-page9.jpg"></TD>
+                <TD><IMG alt=image-top src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/image-top_preactivation.png"
+                    width="100%"></TD>
               </TR>
               <TR>
                 <TD style="BACKGROUND-COLOR: #fff" bgColor=#fff>
-                  <TABLE width="100%" cellSpacing=0 cellPadding=0>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%">
                     <TBODY>
                       <TR>
                         <TD class=space-60><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                         <TD>
-                          <TABLE width="100%" cellSpacing=0 cellPadding=0>
+                          <TABLE cellSpacing=0 cellPadding=0 width="100%">
                             <TBODY>
                               <TR height=33>
                                 <TD><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
@@ -266,7 +270,7 @@ cellPadding=0>
                               <TR>
                                 <TD style="COLOR: #010101; TEXT-ALIGN: center">
                                   <P style="FONT-SIZE: 19px; TEXT-TRANSFORM: uppercase; FONT-WEIGHT: bold">Kedves
-                                    [n&eacute;v]!</P>
+                                    [n&eacute;v]!,</P>
                                 </TD>
                               </TR>
                               <TR height=16>
@@ -274,12 +278,12 @@ cellPadding=0>
                               </TR>
                               <TR>
                                 <TD>
-                                  <TABLE width="100%" cellSpacing=0 cellPadding=0>
+                                  <TABLE cellSpacing=0 cellPadding=0 width="100%">
                                     <TBODY>
                                       <TR>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                         <TD style="FONT-SIZE: 16px; COLOR: #9f9f9f; TEXT-ALIGN: center">
-                                          <P>K&ouml;sz&ouml;nj&uuml;k, hogy You+Nissan fi&oacute;kot regisztr&aacute;lt, hogy hozz&aacute;f&eacute;rjen a szem&eacute;lyre szabott online &uuml;gyf&eacute;lszolg&aacute;ltat&aacute;sok k&ouml;zpontj&aacute;hoz. Időpontot foglalhat műszaki vizsg&aacute;ra, t&eacute;li gumik felszerel&eacute;s&eacute;re, csereaut&oacute;t k&eacute;rhet, &eacute;s megkeresheti a legk&ouml;zelebbi m&aacute;rkakeresked&eacute;st, mindezt a You+Nissan seg&iacute;ts&eacute;g&eacute;vel. Az&eacute;rt vagyunk itt, hogy seg&iacute;ts&uuml;nk &Ouml;nnek &eacute;s v&aacute;laszoljunk a k&eacute;rd&eacute;seire.</P>
+                                          <P>K&ouml;sz&ouml;nj&uuml;k, hogy a(z) [MODELL] aut&oacute;t v&aacute;lasztotta!</P>
                                         </TD>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                       </TR>
@@ -292,12 +296,20 @@ cellPadding=0>
                               </TR>
                               <TR>
                                 <TD>
-                                  <TABLE width="100%" cellSpacing=0 cellPadding=0>
+                                  <TABLE cellSpacing=0 cellPadding=0 width="100%">
                                     <TBODY>
                                       <TR>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                         <TD style="FONT-SIZE: 16px; COLOR: #9f9f9f; TEXT-ALIGN: center">
-                                          <P>Jelentkezzen be az al&aacute;bbi hivatkoz&aacute;s seg&iacute;ts&eacute;g&eacute;vel a You+Nissan fi&oacute;kj&aacute;nak aktiv&aacute;l&aacute;s&aacute;hoz, &eacute;s m&aacute;ris &eacute;lvezheti a szolg&aacute;ltat&aacute;sokat.</P>
+                                          <P>Sz&aacute;njon n&eacute;h&aacute;ny percet arra, hogy l&eacute;trehozza
+                                            You+Nissan-profilj&aacute;t, &eacute;s megtudja, milyen egyszerű az
+                                            aut&oacute;ja online szolg&aacute;ltat&aacute;sainak
+                                            aktiv&aacute;l&aacute;sa, a navig&aacute;ci&oacute;s rendszer
+                                            friss&iacute;t&eacute;se &eacute;s az &ouml;sszes
+                                            j&aacute;rmű-inform&aacute;ci&oacute; el&eacute;r&eacute;se.</P><BR>
+                                          <P>Kattintson az al&aacute;bbi hivatkoz&aacute;sra a You+Nissan
+                                            &uuml;gyf&eacute;lter&uuml;let haszn&aacute;lat&aacute;nak
+                                            megkezd&eacute;s&eacute;hez.</P>
                                         </TD>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                       </TR>
@@ -313,22 +325,64 @@ cellPadding=0>
                               </TR>
                               <TR>
                                 <TD style="TEXT-ALIGN: center">
-                                  <TABLE width="100%" cellSpacing=0 cellPadding=0>
+                                  <TABLE cellSpacing=0 cellPadding=0 width="100%">
                                     <TBODY>
                                       <TR>
                                         <TD><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
-                                        <TD width=308 height=40 style="FONT-WEIGHT: bold; COLOR: #fff; TEXT-ALIGN: center"
-                                          bgColor=#c3002f><a style="FONT-SIZE: 14px; TEXT-DECORATION: none; TEXT-TRANSFORM: uppercase; COLOR: #fff"
-                                            href="https://www.nissan.fr">Itt tudja aktiv&aacute;lni a fi&oacute;kj&aacute;t<BR></A></TD>
+                                        <TD style="FONT-WEIGHT: bold; COLOR: #fff; TEXT-ALIGN: center" bgColor=#c3002f
+                                          height=40 width=308><a style="FONT-SIZE: 14px; TEXT-DECORATION: none; TEXT-TRANSFORM: uppercase; COLOR: #fff"
+                                            href="<%=rtEvent.ctx.url %>">Saj&aacute;t You+Nissan-profil
+                                            aktiv&aacute;l&aacute;sa<BR></A></TD>
                                         <TD><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                       </TR>
                                     </TBODY>
                                   </TABLE>
                                 </TD>
                               </TR>
-                              <TR height=41>
+                              <TR height=25>
                                 <TD><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                               </TR>
+                              <TR>
+                                <TD>
+                                  <TABLE cellSpacing=0 cellPadding=0 width="100%">
+                                    <TBODY>
+                                      <TR>
+                                        <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
+                                        <TD style="FONT-SIZE: 16px; COLOR: #9f9f9f; TEXT-ALIGN: center">
+                                          <P>Ha a fenti hivatkoz&aacute;s nem jelenik meg megfelelően,
+                                            k&eacute;rj&uuml;k, m&aacute;solja a k&ouml;vetkező hivatkoz&aacute;st a
+                                            webb&ouml;ng&eacute;szőj&eacute;be: [hivatkoz&aacute;s]
+                                            <%=rtEvent.ctx.url %>
+                                          </P>
+                                        </TD>
+                                        <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
+                                      </TR>
+                                    </TBODY>
+                                  </TABLE>
+                                </TD>
+                              </TR>
+                              <TR height=25>
+                                <TD><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
+                              </TR>
+                              <TR>
+                                <TD>
+                                  <TABLE cellSpacing=0 cellPadding=0 width="100%">
+                                    <TBODY>
+                                      <TR>
+                                        <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
+                                        <TD style="FONT-SIZE: 16px; COLOR: #9f9f9f; TEXT-ALIGN: left">
+                                          <P>Tisztelettel: <BR>A You+Nissan csapata</P>
+                                        </TD>
+                                        <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
+                                      </TR>
+                                    </TBODY>
+                                  </TABLE>
+                                </TD>
+                              </TR>
+                              <TR height=40>
+                                <TD><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
+                              </TR>
+                              <TR>
                               <TR>
                                 <TD><IMG style="MAX-HEIGHT: 0px" alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                               </TR>
@@ -343,40 +397,41 @@ cellPadding=0>
               </TR>
             </TBODY>
           </TABLE>
-          <TABLE width="92%" align=center cellSpacing=0 cellPadding=0>
+          <TABLE cellSpacing=0 cellPadding=0 width="92%" align=center>
             <TBODY>
-              <TR height=8 style="MAX-HEIGHT: 8px">
-                <TD><IMG height=13 alt="" src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
+              <TR style="MAX-HEIGHT: 8px" height=8>
+                <TD><IMG alt="" src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                    height=13></TD>
               </TR>
               <TR>
                 <TD>
-                  <TABLE width="100%" cellSpacing=0 cellPadding=0>
+                  <TABLE cellSpacing=0 cellPadding=0 width="100%">
                     <TBODY>
                       <TR>
                         <TD>
                           <DIV class=row>
                             <!--[if mso | IE]>
-                        <TABLE width="100%" cellSpacing=0 cellPadding=0>
+                        <TABLE cellSpacing=0 cellPadding=0 width="100%">
                           <TBODY>
                           <TR>
                             <TD
                             style="WIDTH: 49%; VERTICAL-ALIGN: top; TEXT-ALIGN: center; BACKGROUND-COLOR: #fff"
                             bgColor=#fff><![endif]-->
-                            <DIV class="col block2col" style="width: calc(358801px - 59900%); width: -webkit-calc(358801px - 59900%);MAX-WIDTH: 100%; VERTICAL-ALIGN: top; MIN-WIDTH: 49%; TEXT-ALIGN: center; MIN-HEIGHT: 288px; DISPLAY: inline-block; BACKGROUND-COLOR: #fff">
-                              <TABLE width="100%" align=left cellSpacing=0 cellPadding=0>
+                            <DIV class="col block2col" style="MAX-WIDTH: 100%; VERTICAL-ALIGN: top; MIN-WIDTH: 49%; TEXT-ALIGN: center; MIN-HEIGHT: 288px; DISPLAY: inline-block; BACKGROUND-COLOR: #fff">
+                              <TABLE cellSpacing=0 cellPadding=0 width="100%" align=left>
                                 <TBODY>
                                   <TR height=30>
                                     <TD><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                   </TR>
                                   <TR>
                                     <TD>
-                                      <TABLE width="100%" cellSpacing=0 cellPadding=0>
+                                      <TABLE cellSpacing=0 cellPadding=0 width="100%">
                                         <TBODY>
                                           <TR>
-                                            <TD width="40%" height=1><IMG style="MAX-HEIGHT: 1px" alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
+                                            <TD height=1 width="40%"><IMG style="MAX-HEIGHT: 1px" alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                             <TD><a href="https://www.nissan.fr/ownership/navigation-and-infotainment.html"><IMG
                                                   alt="" src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-connect.png"></A></TD>
-                                            <TD width="40%" height=1><IMG style="MAX-HEIGHT: 1px" alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
+                                            <TD height=1 width="40%"><IMG style="MAX-HEIGHT: 1px" alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                           </TR>
                                         </TBODY>
                                       </TABLE>
@@ -387,13 +442,17 @@ cellPadding=0>
                                   </TR>
                                   <TR>
                                     <TD style="FONT-SIZE: 16px; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">
-                                      <P style="TEXT-TRANSFORM: uppercase; LINE-HEIGHT: 18px">Online szolg&aacute;ltat&aacute;sok<BR><BR></P>
+                                      <P style="TEXT-TRANSFORM: uppercase; LINE-HEIGHT: 18px">Online
+                                        szolg&aacute;ltat&aacute;sok<BR><BR></P>
                                     </TD>
                                   </TR>
                                   <TR class=line-center-in-contact></TR>
                                   <TR>
                                     <TD style="FONT-SIZE: 14px; COLOR: #9f9f9f; TEXT-ALIGN: center">
-                                      <P style="LINE-HEIGHT: 21px">Hozza ki a legt&ouml;bbet az online szolg&aacute;ltat&aacute;sokb&oacute;l, &eacute;s fedezze fel a fed&eacute;lzeti online infotainment rendszerek teljes k&iacute;n&aacute;lat&aacute;t.
+                                      <P style="LINE-HEIGHT: 21px">Hozza ki a legt&ouml;bbet az online
+                                        szolg&aacute;ltat&aacute;sokb&oacute;l, &eacute;s fedezze fel a
+                                        fed&eacute;lzeti online infotainment rendszerek teljes
+                                        k&iacute;n&aacute;lat&aacute;t.
                                         <BR></P>
                                     </TD>
                                   </TR>
@@ -406,26 +465,27 @@ cellPadding=0>
                             <!--[if mso | IE]></TD>
                             <TD><![endif]-->
                             <DIV class="col space block2col-space" style="FONT-SIZE: 0px; MAX-WIDTH: 100%; VERTICAL-ALIGN: top; MIN-WIDTH: 2%; DISPLAY: inline-block"><IMG
-                                width=8 height=8 alt="" src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></DIV>
+                                alt="" src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                width=8 height=8></DIV>
                             <!--[if mso | IE]></TD>
                             <TD
                             style="WIDTH: 49%; VERTICAL-ALIGN: top; TEXT-ALIGN: center; BACKGROUND-COLOR: #fff"
                             bgColor=#fff><![endif]-->
-                            <DIV class="col block2col" style="width: calc(358801px - 59900%); width: -webkit-calc(358801px - 59900%);MAX-WIDTH: 100%; VERTICAL-ALIGN: top; MIN-WIDTH: 49%; TEXT-ALIGN: center; MIN-HEIGHT: 288px; DISPLAY: inline-block; BACKGROUND-COLOR: #fff">
-                              <TABLE width="100%" align=left cellSpacing=0 cellPadding=0>
+                            <DIV class="col block2col" style="MAX-WIDTH: 100%; VERTICAL-ALIGN: top; MIN-WIDTH: 49%; TEXT-ALIGN: center; MIN-HEIGHT: 288px; DISPLAY: inline-block; BACKGROUND-COLOR: #fff">
+                              <TABLE cellSpacing=0 cellPadding=0 width="100%" align=left>
                                 <TBODY>
                                   <TR height=30>
                                     <TD><IMG alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                   </TR>
                                   <TR>
                                     <TD>
-                                      <TABLE width="100%" cellSpacing=0 cellPadding=0>
+                                      <TABLE cellSpacing=0 cellPadding=0 width="100%">
                                         <TBODY>
                                           <TR>
-                                            <TD width="40%" height=1><IMG style="MAX-HEIGHT: 1px" alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
-                                            <TD><a href="https://www.nissan.fr/dashboard/vos-offres.html"><IMG alt=""
-                                                  src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-deal.png"></A></TD>
-                                            <TD width="40%" height=1><IMG style="MAX-HEIGHT: 1px" alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
+                                            <TD height=1 width="40%"><IMG style="MAX-HEIGHT: 1px" alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
+                                            <TD><a href="https://www.nissan.fr/tableau-de-bord/vos-offres.html"><IMG
+                                                  alt="" src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-deal.png"></A></TD>
+                                            <TD height=1 width="40%"><IMG style="MAX-HEIGHT: 1px" alt=spacer src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                           </TR>
                                         </TBODY>
                                       </TABLE>
@@ -436,14 +496,16 @@ cellPadding=0>
                                   </TR>
                                   <TR>
                                     <TD style="FONT-SIZE: 16px; FONT-WEIGHT: bold; COLOR: #000000; TEXT-ALIGN: center">
-                                      <P style="TEXT-TRANSFORM: uppercase; LINE-HEIGHT: 18px">Exkluz&iacute;v aj&aacute;nlatok
-                                        <BR><BR></P>
+                                      <P style="TEXT-TRANSFORM: uppercase; LINE-HEIGHT: 18px">Exkluz&iacute;v
+                                        aj&aacute;nlatok<BR><BR></P>
                                     </TD>
                                   </TR>
                                   <TR class=line-center-in-contact></TR>
                                   <TR>
                                     <TD style="FONT-SIZE: 14px; COLOR: #9f9f9f; TEXT-ALIGN: center">
-                                      <P style="LINE-HEIGHT: 21px">Keresse fel a You+Nissan weboldalt, ahol Nissan-tulajdonosk&eacute;nt exkluz&iacute;v aj&aacute;nlatokban r&eacute;szes&uuml;lhet.<BR></P>
+                                      <P style="LINE-HEIGHT: 21px">Keresse fel a You+Nissan weboldalt, ahol
+                                        Nissan-tulajdonosk&eacute;nt exkluz&iacute;v aj&aacute;nlatokban
+                                        r&eacute;szes&uuml;lhet.<BR></P>
                                     </TD>
                                   </TR>
                                   <TR height=22>
@@ -456,16 +518,10 @@ cellPadding=0>
                           </DIV>
                         </TD>
                       </TR>
-                      <TR height=8 style="MAX-HEIGHT: 8px">
-                        <TD><IMG height=13 alt="" src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
+                      <TR style="MAX-HEIGHT: 8px" height=8>
+                        <TD><IMG alt="" src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                            height=13></TD>
                       </TR>
-
-
-
-
-
-
-
                     </TBODY>
                   </TABLE>
                 </TD>
@@ -639,7 +695,8 @@ cellPadding=0>
                           <tr>
                             <td style="font-size: 14px; color: #9f9f9f; text-align: center;">
                               <p style="line-height: 21px;">Van egy Nissan m&aacute;rkakeresked&eacute;s az &Ouml;n
-                                k&ouml;zel&eacute;ben. Itt megtudhatja, pontosan hol van, mikor van nyitva &eacute;s hogyan
+                                k&ouml;zel&eacute;ben. Itt megtudhatja, pontosan hol van, mikor van nyitva &eacute;s
+                                hogyan
                                 tudja felvenni vele a kapcsolatot. A m&aacute;rkakeresked&eacute;s &ouml;r&ouml;mmel
                                 seg&iacute;t &Ouml;nnek.<br /></p>
                             </td>
@@ -779,7 +836,8 @@ cellPadding=0>
                                     <td width="10"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td class="font-size-18" style="text-decoration: underline !important; color: #5b5b5b;font-size:15px !important;"><a
-                                        href="https://www.nissan.fr/legal/cookies.html" style="color: #5b5b5b;"> Cookies</a></td>
+                                        href="https://www.nissan.fr/legal/cookies.html" style="color: #5b5b5b;">
+                                        Cookies</a></td>
                                     <td width="8"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td width="2"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/gray-line.png"

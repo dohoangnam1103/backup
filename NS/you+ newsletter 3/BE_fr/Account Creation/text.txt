@@ -5,15 +5,8 @@
 
 Bonjour,
 
-Nous vous remercions d’avoir fait l’acquisition de votre Nissan.
+Merci dâ€™avoir activÃ© votre compte You+Nissan.
 
-Prenez quelques instants pour créer votre compte You+Nissan et découvrir comment activer facilement les services connectés de votre voiture, mettre à jour votre système de navigation et accéder à toutes les informations concernant votre véhicule.
+Avec You+Nissan, vous pouvez maintenant profiter dâ€™un grand nombre dâ€™avantages clients, notamment un espace propriÃ©taire dÃ©diÃ©, dans lequel vous pouvez rÃ©server des services personnalisÃ©s pour votre Nissan, tels que les rÃ©visions et les rendez-vous chez votre concessionnaire.
 
-Cliquez sur le lien suivant pour commencer à utiliser votre espace client You+Nissan :
-
-Activer mon profil You+Nissan 
-
-Si le lien précédent ne s’affiche pas correctement, veuillez copier le lien suivant dans votre navigateur : <%=rtEvent.ctx.url %>
-
-Bien cordialement, 
-L’équipe You+Nissan
+[CTA - Aller sur mon compte You+Nissan]

@@ -1,34 +1,25 @@
-<%@ include view='nissanInitVariablesMc' %> 
+<%@ include view='nissanInitVariablesMc' %>
 <%@ include view='MirrorPageUrl' %>
 
 
 
-Bonjour
+Bonjour [titre + PrÃ©nom + Nom],
+
+Merci pour votre inscription sur You+Nissan, votre plateforme personnalisÃ©e de services client. GrÃ¢ce Ã  You+Nissan, montez des pneus hiver, demandez un vÃ©hicule de remplacement ou trouvez le concessionnaire le plus proche. Nous sommes Ã  votre disposition au quotidien pour rÃ©pondre Ã  vos besoins et Ã  vos demandes.
+
+Pour commencer Ã  profiter des services You+Nissan, veuillez activer votre compte en vous connectant grÃ¢ce au lien ci-dessous.
+
+[CTA - Activer mon compte ici]
+
+Bien cordialement,
+
+Lâ€™Ã©quipe You+Nissan
 
 
 
-Merci d´avoir activé votre compte You+Nissan.
 
+Services connect&eacute;s
+Exploitez tout le potentiel de vos services connect&eacute;s et d&eacute;couvrez l'ensemble de nos technologies embarqu&eacute;es.
 
-
-
-Avec You+Nissan, vous pouvez maintenant profiter d’un grand nombre d’avantages clients, notamment un espace propriétaire dédié, dans lequel vous pouvez gérer vos véhicules Nissan, activer vos services connectés ou contacter votre concessionnaire.
-
-
-
-Aller sur mon compte You+Nissan
-
-
-
-Services connectés
- 
-
-Exploitez tout le potentiel de vos services connectés et découvrez l´ensemble de nos technologies embarquées.
-
-
-
-Offres exclusives 
-
-
-
-Consultez le site internet You+Nissan et découvrez les offres qui vous sont réservées en tant que propriétaire Nissan.
+Offres exclusives
+Consultez le site internet You+Nissan et d&eacute;couvrez les offres qui vous sont r&eacute;serv&eacute;es en tant que propri&eacute;taire Nissan.

@@ -2,7 +2,6 @@
 <%@ include view='MirrorPageUrl' %>
 
 
-
 Dobrý den,
 
 děkujeme za aktivaci účtu You+Nissan.

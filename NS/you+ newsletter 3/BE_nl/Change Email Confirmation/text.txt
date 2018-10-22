@@ -4,15 +4,14 @@
 UW YOU+NISSAN E-MAILADRES IS GERESET
 
 
-BESTE [NAAM],
+Beste [naam],
 
-We zijn blij om u mee te kunnen delen dat uw You+Nissan e-mailadres opnieuw is ingesteld.
+We zijn blij om u te kunnen meedelen dat uw You+Nissan e-mailadres is gereset.
 
+Log met dit e-mailadres in op uw account door onderstaande link te gebruiken.
 
-Klik op onderstaande link en log met dit e-mailadres in op uw account.
-
-
-GA NAAR YOU+NISSAN
+[CTA - Ga naar You+Nissan]
 
 Met vriendelijke groet,
-Het You+Nissan-team
+
+You+Nissan team

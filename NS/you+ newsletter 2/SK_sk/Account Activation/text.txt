@@ -2,7 +2,6 @@
 <%@ include view='MirrorPageUrl' %>
 
 
-
 Dobrý deň [meno],
 
 ďakujeme za zaregistrovanie Vášho účtu You+Nissan, Vášho prispôsobeného centra online klientskych služieb. Zarezervujte si svoj MOT, nechajte si prezuť zimné pneumatiky, požiadajte o náhradné vozidlo, prípadne si jednoducho vyhľadajte svojho najbližšieho predajcu, a to všetko cez You+Nissan. Sme tu, aby sme reagovali na Vaše každodenné potreby a otázky.

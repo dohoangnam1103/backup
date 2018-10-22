@@ -3,23 +3,14 @@
 
 
 
-BESTE [NAAM], <%@ INCLUDE VIEW='FRGREETINGNOSAL' %>
+Beste [naam],
 
+Bedankt voor het activeren van uw You+Nissan account.
 
-Bedankt dat u zich heeft aangemeld voor een You+Nissan account,
+Met You+Nissan hebt u nu toegang tot vele klantvoordelen en natuurlijk tot uw persoonlijke eigenaren-omgeving waar u uw gepersonaliseerde Nissan-diensten kunt reserveren, inclusief periodieke onderhoudsbeurten en afspraken bij uw dealer.
 
-uw persoonlijke hub voor online diensten. Plan uw APK, laat winterbanden monteren,
+[CTA - Ga naar mijn You+Nissan account]
 
-vraag vervangend vervoer aan of ontdek de dichtstbijzijnde dealer, allemaal via You+Nissan. We staan klaar voor al uw behoeften en om al uw vragen te beantwoorden.
-
-
-Als u wilt profiteren van You+Nissan, klik dan op onderstaande link en activeer uw account.
-
-
-ACTIVEER MIJN ACCOUNT HIER
-
-Met vriendelijke groet,
-You+Nissan-team
 
 
 VERBONDEN DIENSTEN

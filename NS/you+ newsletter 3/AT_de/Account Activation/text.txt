@@ -2,18 +2,17 @@
 <%@ include view='MirrorPageUrl' %>
 
 
-"Hallo,
+Hallo,
 
-
-wir möchten uns für Ihre Registrierung bei YOU+NISSAN ganz herzlich bedanken.
+wir möchten uns für die Registrierung Ihres YOU+NISSAN Benutzerkontos, Ihrer persönlichen Online-Serviceschnittstelle, ganz herzlich bedanken. Vereinbaren Sie mit YOU+NISSAN den Termin für Ihre nächste HU, lassen Sie Ihre Winterreifen montieren, fordern Sie einen Leihwagen an, oder suchen Sie ganz einfach nach einem Händler in Ihrer Nähe. Wir beantworten gerne Ihre Fragen und helfen Ihnen weiter.
 
 Um die Vorteile von YOU+NISSAN nutzen zu können, müssen Sie zunächst Ihr Konto aktivieren, indem Sie auf den Link unten klicken.
 
 [CTA – Mein Konto hier aktivieren]
 
-
 Mit freundlichen Grüßen
-Ihr NISSAN Team"
+
+Das YOU+NISSAN Team
 
 
 

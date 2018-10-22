@@ -3,13 +3,18 @@
 
 
 
-"Sveicināti, [vārds],
+Sveicināti, [vārds],
 
 Pateicamies Jums par reģistrāciju Jūsu You+Nissan kontā, Jūsu personalizētajā tiešsaistes klientu pakalpojumu centrā. Pasūtiet tehnisko apkopi, uzlieciet ziemas riepas, pieprasiet maiņas automobili vai vienkārši atrodiet tuvāko dīleri - to visu var paveikt ar You+Nissan palīdzību. Mēs šeit atrodamies, lai palīdzētu Jums ikdienas problēmu un jautājumu risināšanā.
 
 Lai uzsāktu You+Nissan lietošanu, lūdzu, aktivizējiet savu kontu, noklikšķinot uz zemāk redzamās saites.
 
 [CTA - Kontu var aktivizēt šeit]
+
+Jūsu
+
+You+Nissan komanda
+
 
 
 

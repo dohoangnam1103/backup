@@ -3,23 +3,27 @@
 
 
 
-Cher/Chère membre You+Nissan,
+Cher/ChÃ¨re membre You+Nissan,
 
-La plate-forme You+Nissan évolue pour vous proposer des services encore plus performants, un design plus lisible et une sécurité renforcée.
+La plate-forme You+Nissan Ã©volue pour vous proposer des services encore plus performants, un design plus lisible et une sÃ©curitÃ© renforcÃ©e.
 
-Vous devez modifier votre mot de passe pour continuer à utiliser votre compte et gérer certaines fonctionnalités de votre véhicule.
+Vous devez modifier votre mot de passe pour continuer Ã  utiliser votre compte et gÃ©rer certaines fonctionnalitÃ©s de votre vÃ©hicule.
 
-Veuillez changer votre mot de passe dans les 5 prochains jours en cliquant sur le lien suivant :
+Veuillez changer votre mot de passe dans les X prochains jours en cliquant sur le lien suivantÂ :
+[CrÃ©er un nouveau mot de passe]
 
-Créer un nouveau mot de passe
+Si le lien prÃ©cÃ©dent ne sâ€™affiche pas correctement, veuillez copier le lien suivant dans votre navigateurÂ : [lien]
 
-Si le lien précédent ne s’affiche pas correctement, veuillez copier le lien suivant dans votre navigateur : [lien]
+Bien cordialement,
+Lâ€™Ã©quipe You+Nissan
 
-Bien cordialement, 
-L’équipe You+Nissan
 
-Services connectés 
-Exploitez tout le potentiel de vos services connectés et découvrez l´ensemble de nos technologies embarquées. 
 
-Offres exclusives 
-Consultez le site internet You+Nissan et découvrez les offres qui vous sont réservées en tant que propriétaire Nissan.
+
+Services connect&eacute;s
+Exploitez tout le potentiel de vos services connect&eacute;s et d&eacute;couvrez l'ensemble de nos technologies
+embarqu&eacute;es.
+
+Offres exclusives
+Consultez le site internet You+Nissan et d&eacute;couvrez les offres qui vous sont r&eacute;serv&eacute;es en tant que
+propri&eacute;taire Nissan.

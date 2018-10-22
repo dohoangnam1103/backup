@@ -5,15 +5,14 @@
 
 Bonjour,
 
-Nous vous remercions d’avoir fait l’acquisition de votre Nissan.
+Nous vous remercions dâ€™avoir fait lâ€™acquisition dâ€™un/dâ€™une Nissan [MODÃˆLE].
 
-Prenez quelques instants pour créer votre compte You+Nissan et découvrir comment activer facilement les services connectés de votre voiture, mettre à jour votre système de navigation et accéder à toutes les informations concernant votre véhicule.
+Prenez quelques instants pour crÃ©er votre compte You+Nissan et dÃ©couvrir comment activer facilement les services connectÃ©s de votre voiture, mettre Ã  jour votre systÃ¨me de navigation et accÃ©der Ã  toutes les informations concernant votre vÃ©hicule.
 
-Cliquez sur le lien suivant pour commencer à utiliser votre espace client You+Nissan :
+Cliquez sur le lien suivant pour commencer Ã  utiliser votre espace client You+NissanÂ :
+[Activer mon profil You+Nissan]
 
-Activer mon profil You+Nissan 
+Si le lien prÃ©cÃ©dent ne sâ€™affiche pas correctement, veuillez copier le lien suivant dans votre navigateurÂ : [lien]
 
-Si le lien précédent ne s’affiche pas correctement, veuillez copier le lien suivant dans votre navigateur : <%=rtEvent.ctx.url %>
-
-Bien cordialement, 
-L’équipe You+Nissan
+Bien cordialement,
+Lâ€™Ã©quipe You+Nissan
