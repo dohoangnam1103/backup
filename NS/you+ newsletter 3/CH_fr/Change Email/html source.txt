@@ -12,7 +12,7 @@ a{display:inline!important}table{margin:0 auto}body{margin:0;padding:0;-webkit-t
 body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
 </style>
 <![endif]-->
-  </head>
+  <meta charset="utf-8"></head>
     <body><%@ include view='nissanInitVariablesMc' %>
 
  <!--[if mso | IE]>
@@ -21,7 +21,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
 <td>
 <![endif]-->
   <div style="display: none;">
-    Avez-vous demand&eacute; &agrave; r&eacute;initialiser votre adresse e-mail ?
+    Avez-vous demand&eacute; &agrave; r&eacute;initialiser votre adresse e-mailï¿½?
   </div>
     <table align="center" cellpadding="0" cellspacing="0" bgcolor="#efefef" width="100%" style="max-width: 600px;">
       <tr>

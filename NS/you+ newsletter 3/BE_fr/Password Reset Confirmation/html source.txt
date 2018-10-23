@@ -6,13 +6,13 @@
 a{display:inline!important}table{margin:0 auto}body{margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}body,td{font-family:Arial!important}table,td{border-collapse:collapse;mso-table-lspace:0;mso-table-rspace:0}td{mso-line-height-rule:exactly}.space{font-size:0;line-height:0!important}.space-31{width:31px}.space-50{width:50px}.space-60{width:60px}.space-63{width:63px}.space-69{width:69px}.font-size-18{font-size:18px}img{display:block;outline:0;text-decoration:none;-ms-interpolation-mode:bicubic;border:0}p{display:block;margin:0}.row{display:table!important;width:100%}.col{display:table-cell!important;line-height:1.5}.block2col{width:49%!important}.block2col-space{width:2%!important}.block3col_space{width:3.05%!important}.block3col{width:31.3%!important}.row{display:table!important;width:100%!important}.col{display:table-cell!important}.block2col{width:49%!important}.block2col-space{width:2%!important}.block3col_space{width:3.05%!important}.block3col{width:31.3%!important}@media only screen and (max-width:759px){.row{display:block!important}.col{display:block!important;width:100%!important}.space-50,.space-60{width:0;max-width:0}.line-center-in-contact{height:12px}}@media only screen and (min-width:760px){.row{display:table!important;width:100%!important}.col{display:table-cell!important}.block2col{width:49%!important}.block2col-space{width:2%!important}.block3col_space{width:3.05%!important}.block3col{width:31.3%!important}.img-header{max-width:100%!important}}@media only screen and (max-device-width:480px){.block2col{width:100%!important;max-width:100%!important;display:block!important}}
 </style>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-    
+
 <!--[if mso]>
 <style type="text/css">
 body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
 </style>
 <![endif]-->
-  </head>
+  <meta charset="utf-8"></HEAD>
     <body><%@ include view='nissanInitVariablesMc' %>
 
   <!--[if mso | IE]>
