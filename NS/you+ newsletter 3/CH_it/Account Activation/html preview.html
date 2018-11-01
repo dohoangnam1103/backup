@@ -189,6 +189,7 @@
       }
     }
   </STYLE>
+  <META http-equiv=X-UA-Compatible content=IE=edge>
   <!--[if mso]>
 <style type="text/css">
 body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
@@ -204,8 +205,7 @@ cellPadding=0>
   <TBODY>
   <TR>
     <TD><![endif]-->
-  <DIV style="DISPLAY: none">Personalizza i tuoi servizi per il cliente NISSAN
-  </DIV>
+  <DIV style="DISPLAY: none">Accedi ai servizi personalizzati per il cliente NISSAN</DIV>
   <TABLE width="100%" align=center style="MAX-WIDTH: 600px" bgColor=#efefef cellSpacing=0 cellPadding=0>
     <TBODY>
       <tr>
@@ -224,7 +224,7 @@ cellPadding=0>
               <tr>
                 <td width="24"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                     alt="spacer" /></td>
-                <td width="80"><a href="https://www.nissan.de"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/logo-nissan.png"
+                <td width="80"><a href="https://it.nissan.ch"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/logo-nissan.png"
                       alt="logo-nissan" /></a></td>
                 <td align="right">
                   <div style="height: 12px;"></div><img class="img-header" src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/logo-youplus.png"
@@ -237,7 +237,6 @@ cellPadding=0>
           </table>
         </td>
       </tr>
-
       <TR>
         <TD>
           <TABLE width="100%" cellSpacing=0 cellPadding=0>
@@ -266,7 +265,8 @@ cellPadding=0>
                               </TR>
                               <TR>
                                 <TD style="COLOR: #010101; TEXT-ALIGN: center">
-                                  <P style="FONT-SIZE: 19px; TEXT-TRANSFORM: uppercase; FONT-WEIGHT: bold">Ciao [nome],</P>
+                                  <P style="FONT-SIZE: 19px; TEXT-TRANSFORM: uppercase; FONT-WEIGHT: bold">Ciao [nome],
+                                    <%@ include                               view='frGreetingNoSal' %>,</P>
                                 </TD>
                               </TR>
                               <TR height=16>
@@ -279,7 +279,7 @@ cellPadding=0>
                                       <TR>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                         <TD style="FONT-SIZE: 16px; COLOR: #9f9f9f; TEXT-ALIGN: center">
-                                          <P>grazie per aver registrato il tuo account YOU+NISSAN, il tuo hub personalizzato per i servizi per il cliente online.</P>
+                                          <P>grazie per aver attivato il tuo account YOU+NISSAN. </P>
                                         </TD>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                       </TR>
@@ -297,7 +297,7 @@ cellPadding=0>
                                       <TR>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                         <TD style="FONT-SIZE: 16px; COLOR: #9f9f9f; TEXT-ALIGN: center">
-                                          <P>Per iniziare a utilizzare YOU+NISSAN attiva il tuo account accedendo con il link che segue. </P>
+                                          <P>Con YOU+NISSAN, ora puoi accedere a una serie di vantaggi per i clienti.</P>
                                         </TD>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                       </TR>
@@ -308,8 +308,8 @@ cellPadding=0>
                               <TR height=25>
                                 <TD><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                               </TR>
-                              <TR height=10>
-                                <TD><IMG style="MAX-HEIGHT: 10px" alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
+                              <TR>
+                                <TD><IMG style="MAX-HEIGHT: 0px" alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                               </TR>
                               <TR>
                                 <TD style="TEXT-ALIGN: center">
@@ -318,8 +318,8 @@ cellPadding=0>
                                       <TR>
                                         <TD><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                         <TD width=308 height=40 style="FONT-WEIGHT: bold; COLOR: #fff; TEXT-ALIGN: center"
-                                          bgColor=#c3002f><a style="FONT-SIZE: 14px; TEXT-DECORATION: none; TEXT-TRANSFORM: uppercase; COLOR: #fff"
-                                            href="https://www.nissan.de">Attiva il mio account qui<BR></A></TD>
+                                          bgColor=#c3002f><A style="FONT-SIZE: 14px; TEXT-DECORATION: none; TEXT-TRANSFORM: uppercase; COLOR: #fff"
+                                            href="<%= rtEvent.ctx.url%>">Vai al mio account YOU+NISSAN<BR></A></TD>
                                         <TD><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                       </TR>
                                     </TBODY>
@@ -339,7 +339,7 @@ cellPadding=0>
                                       <TR>
                                         <TD><IMG style="MAX-WIDTH: 0px" alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                         <TD style="FONT-SIZE: 16px; COLOR: #9f9f9f">
-                                          <P>Cordialmente, <BR>Il team YOU+NISSAN</P>
+                                          <P></P>
                                         </TD>
                                         <TD><IMG style="MAX-WIDTH: 0px" alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                       </TR>
@@ -363,8 +363,8 @@ cellPadding=0>
           </TABLE>
           <TABLE width="92%" align=center cellSpacing=0 cellPadding=0>
             <TBODY>
-              <TR height=8 style="MAX-HEIGHT: 8px">
-                <TD><IMG height=13 alt="" src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
+              <TR height=13>
+                <TD><IMG style="MAX-HEIGHT: 13px" alt="" src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
               </TR>
               <TR>
                 <TD>
@@ -392,7 +392,7 @@ cellPadding=0>
                                         <TBODY>
                                           <TR>
                                             <TD width="40%" height=1><IMG style="MAX-HEIGHT: 1px" alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
-                                            <TD><a href="https://www.nissan.de/ownership/navigation-and-infotainment.html"><IMG
+                                            <TD><a href="https://it.nissan.ch/ownership/navigation-and-infotainment.html"><IMG
                                                   alt="" src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-connect.png"></A></TD>
                                             <TD width="40%" height=1><IMG style="MAX-HEIGHT: 1px" alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                           </TR>
@@ -429,7 +429,7 @@ cellPadding=0>
                             <TD
                             style="WIDTH: 49%; VERTICAL-ALIGN: top; TEXT-ALIGN: center; BACKGROUND-COLOR: #fff"
                             bgColor=#fff><![endif]-->
-                            <DIV class="col block2col" style="width: calc(358801px - 59900%); width: -webkit-calc(358801px - 59900%);MAX-WIDTH: 100%; VERTICAL-ALIGN: top; MIN-WIDTH: 49%; TEXT-ALIGN: center; MIN-HEIGHT: 288px; DISPLAY: inline-block; BACKGROUND-COLOR: #fff">
+                            <DIV class="col block2col" style="width: calc(358801px - 59900%); width: -webkit-calc(358801px - 59900%); MAX-WIDTH: 100%; VERTICAL-ALIGN: top; MIN-WIDTH: 49%; TEXT-ALIGN: center; MIN-HEIGHT: 288px; DISPLAY: inline-block; BACKGROUND-COLOR: #fff">
                               <TABLE width="100%" align=left cellSpacing=0 cellPadding=0>
                                 <TBODY>
                                   <TR height=30>
@@ -460,7 +460,7 @@ cellPadding=0>
                                   <TR class=line-center-in-contact></TR>
                                   <TR>
                                     <TD style="FONT-SIZE: 14px; COLOR: #9f9f9f; TEXT-ALIGN: center">
-                                      <P style="LINE-HEIGHT: 21px">Visita il sito web YOU+NISSAN e scopri le offerte esclusive per te come proprietario NISSAN.<BR></P>
+                                      <P style="LINE-HEIGHT: 21px">Visita il sito web YOU+NISSAN e scopri le offerte esclusive per te come proprietario NISSAN. <BR></P>
                                     </TD>
                                   </TR>
                                   <TR height=22>
@@ -476,12 +476,6 @@ cellPadding=0>
                       <TR height=8 style="MAX-HEIGHT: 8px">
                         <TD><IMG height=13 alt="" src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                       </TR>
-
-
-
-
-
-
 
                     </TBODY>
                   </TABLE>
@@ -532,7 +526,7 @@ cellPadding=0>
                                   <tr>
                                     <td width="40%" height="1px"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px;" /></td>
-                                    <td><a href="tel:08005894987"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-phone.png"
+                                    <td><a href="tel:0800860900"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-phone.png"
                                           alt="" /></a></td>
                                     <td width="40%" height="1px"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px;" /></td>
@@ -582,7 +576,7 @@ cellPadding=0>
                                   <tr>
                                     <td width="40%" height="1px"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px;" /></td>
-                                    <td><a href="https://www.nissan.de/kundenservice/kontakt.html"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-email.png"
+                                    <td><a href="https://it.nissan.ch/servizio-clienti/contattaci/fai-una-domanda.html"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-email.png"
                                           alt="" /></a></td>
                                     <td width="40%" height="1px"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px;" /></td>
@@ -633,7 +627,7 @@ cellPadding=0>
                                   <tr>
                                     <td width="40%" height="1px"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px;" /></td>
-                                    <td><a href="https://www.nissan.de/haendlersuche.html"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-location.png"
+                                    <td><a href="https://it.nissan.ch/trova-concessionario.html"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-location.png"
                                           alt="" /></a></td>
                                     <td width="40%" height="1px"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px;" /></td>
@@ -752,10 +746,10 @@ cellPadding=0>
                       <tr>
                         <td style="width: calc((100% - 186px)/2);"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                             alt="spacer" /></td>
-                        <td width="93"><a href="https://www.facebook.com/NissanDeutschland/"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/logo-facebook.png"
+                        <td width="93"><a href="https://www.facebook.com/NissanSwitzerland"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/logo-facebook.png"
                               alt="logo-facebook" /></a></td>
-                        <td width="93"><a href="https://twitter.com/nissanDE"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/logo-twiter.png"
-                              alt="logo-twiter" /></a></td>
+                        <td width="93"><a href="https://www.youtube.com/user/NissanSwitzerland"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/logo-youtube.png"
+                              alt="logo-youtube" /></a></td>
                         <td style="width: calc((100% - 186px)/2);"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                             alt="spacer" /></td>
                       </tr>
@@ -802,7 +796,7 @@ cellPadding=0>
                       </tr>
                       <tr>
                         <td>
-                          <div class="row" style="width: 390px !important; margin: 0px auto;">
+                          <div class="row" style="width: 502px !important; margin: 0px auto;">
                             <!--[if mso | IE]>
       <table cellpadding="0" cellspacing="0" width="100%">
       <tbody>
@@ -817,7 +811,7 @@ cellPadding=0>
                                     <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td class="font-size-18" style="text-decoration: underline !important; color: #5b5b5b;font-size:15px !important;"><a
-                                        href="https://www.nissan.de/rechtliches/hinweise-datenschutz.html" style="color: #5b5b5b;">Privacy</a></td>
+                                        href="https://it.nissan.ch/note-legali/privacy.html" style="color: #5b5b5b;">Protezione dei dati e cookie</a></td>
                                     <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td width="2"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/gray-line.png"
@@ -825,8 +819,8 @@ cellPadding=0>
                                     <td width="10"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td class="font-size-18" style="text-decoration: underline !important; color: #5b5b5b;font-size:15px !important;"><a
-                                        href="https://www.nissan.de/rechtliches/cookies.html" style="color: #5b5b5b;">
-                                        Cookies</a></td>
+                                        href="https://it.nissan.ch/note-legali/colophon.html" style="color: #5b5b5b;">
+                                        Colophon</a></td>
                                     <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td width="2"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/gray-line.png"
@@ -846,8 +840,8 @@ cellPadding=0>
                                     <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td class="font-size-18" style="text-decoration: underline !important; color: #5b5b5b;font-size:15px !important;"><a
-                                        href="https://www.nissan.de/rechtliches/agb.html" style="color: #5b5b5b;">Terms &
-                                        Conditions</a></td>
+                                        href="https://it.nissan.ch/note-legali/termini-condizioni.html" style="color: #5b5b5b;">Informazioni legali
+                                        </a></td>
                                     <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td width="2"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/gray-line.png"
@@ -855,8 +849,8 @@ cellPadding=0>
                                     <td width="10"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td class="font-size-18" style="text-decoration: underline !important; color: #5b5b5b;font-size:15px !important;"><a
-                                        href="https://www.nissan.de/kundenservice/kontakt.html" style="color: #5b5b5b;">Contact
-                                        us</a></td>
+                                        href="https://it.nissan.ch/servizio-clienti/contattaci.html" style="color: #5b5b5b;">Contatto
+                                        </a></td>
                                     <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                   </tr>
