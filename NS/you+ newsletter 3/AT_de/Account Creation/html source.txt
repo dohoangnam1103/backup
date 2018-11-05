@@ -204,8 +204,7 @@ cellPadding=0>
   <TBODY>
   <TR>
     <TD><![endif]-->
-  <DIV style="DISPLAY: none">YOU+NISSAN Passwort zur&#xFC;cksetzen
-  </DIV>
+
   <TABLE width="100%" align=center style="MAX-WIDTH: 600px" bgColor=#efefef cellSpacing=0 cellPadding=0>
     <TBODY>
       <tr>
@@ -276,7 +275,7 @@ cellPadding=0>
                                       <TR>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                         <TD style="FONT-SIZE: 16px; COLOR: #9f9f9f; TEXT-ALIGN: center">
-                                          <P>wir m&ouml;chten uns f&uuml;r Ihre Registrierung bei YOU+NISSAN ganz herzlich bedanken.</P>
+                                          <P>wir m&ouml;chten uns f&uuml;r die Registrierung Ihres YOU+NISSAN Benutzerkontos, Ihrer pers&ouml;nlichen Online-Serviceschnittstelle, ganz herzlich bedanken. Vereinbaren Sie mit YOU+NISSAN den Termin f&uuml;r Ihre n&auml;chste HU, lassen Sie Ihre Winterreifen montieren, fordern Sie einen Leihwagen an, oder suchen Sie ganz einfach nach einem H&auml;ndler in Ihrer N&auml;he. Wir beantworten gerne Ihre Fragen und helfen Ihnen weiter.</P>
                                         </TD>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                       </TR>
