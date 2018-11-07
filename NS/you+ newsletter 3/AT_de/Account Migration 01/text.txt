@@ -2,7 +2,8 @@
 <%@ include view='MirrorPageUrl' %>
 
 
-Liebes YOU+NISSAN Mitglied,
+
+SEHR GEEHRTES YOU+NISSAN MITGLIED,
 
 die YOU+NISSAN Plattform wurde weiterentwickelt, um Ihnen bessere Services, ein klares Design und mehr Sicherheit zu bieten.
 

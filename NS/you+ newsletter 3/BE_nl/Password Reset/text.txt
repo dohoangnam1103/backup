@@ -4,15 +4,14 @@
 
 UW YOU+NISSAN WACHTWOORD RESETTEN
 
-Beste [naam],
+Hallo,
 
 We hebben uw verzoek ontvangen voor het opnieuw instellen van uw You+Nissan wachtwoord. Klik op de link om uw wachtwoord te resetten.
 
-
-RESET MIJN WACHTWOORD HIER
+[CTA - Reset mijn wachtwoord hier]
 
 Als u geen verzoek hebt ingediend voor het resetten van uw wachtwoord, dan kunt u deze e-mail negeren.
 
-
 Met vriendelijke groet,
+
 Het You+Nissan-team

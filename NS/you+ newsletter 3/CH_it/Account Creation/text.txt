@@ -2,7 +2,7 @@
 <%@ include view='MirrorPageUrl' %>
 
 
-Ciao [nome],
+Ciao,
 
 grazie per aver registrato il tuo account YOU+NISSAN, il tuo hub personalizzato per i servizi per il cliente online.
 

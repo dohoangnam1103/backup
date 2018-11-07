@@ -292,7 +292,7 @@ cellPadding=0>
                                       <TR>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                         <TD style="FONT-SIZE: 16px; COLOR: #9f9f9f; TEXT-ALIGN: center">
-                                          <P>wir freuen uns, Ihnen mitteilen zu d&uuml;rfen, dass Ihre YOU+NISSAN E-Mail-Adresse zur&uuml;ckgesetzt wurde.</P>
+                                          <P>Ihre YOU+NISSAN E-Mail-Adresse wurde zur&uuml;ckgesetzt.</P>
                                         </TD>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                       </TR>
@@ -352,7 +352,7 @@ cellPadding=0>
                                       <TR>
                                         <TD width=12><IMG style="MAX-WIDTH: 12px" alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                         <TD style="FONT-SIZE: 16px; COLOR: #9f9f9f">
-                                          <P>Mit freundlichen Gr&uuml;&szlig;en <BR>Das YOU+NISSAN Team</P>
+                                          <P>Mit freundlichen Gr&uuml;ssen<BR>Ihr NISSAN Team</P>
                                         </TD>
                                         <TD width=12><IMG style="MAX-WIDTH: 12px" alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                       </TR>

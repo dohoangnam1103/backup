@@ -2,17 +2,17 @@
 <%@ include view='MirrorPageUrl' %>
 
 
-Ihre YOU+NISSAN E-Mail-Adresse wurde zur�cksetzt
-
+Ihre YOU+NISSAN E-Mail-Adresse wurde zurücksetzt
 
 Hallo,
 
-wir freuen uns, Ihnen mitteilen zu d&uuml;rfen, dass Ihre YOU+NISSAN E-Mail-Adresse zur&uuml;ckgesetzt wurde.
 
-Sie k&ouml;nnen diese E-Mail-Adresse jetzt verwenden, um sich &uuml;ber den Link unten in Ihrem Konto anzumelden.
+Ihre YOU+NISSAN E-Mail-Adresse wurde zurückgesetzt.
 
-[CTA&nbsp;&ndash; YOU+NISSAN besuchen]
+Sie können diese E-Mail-Adresse jetzt verwenden, um sich über den Link unten in Ihrem Konto anzumelden.
 
-Mit freundlichen Gr&uuml;&szlig;en
+[CTA – YOU+NISSAN besuchen]
 
-Das YOU+NISSAN Team
+
+Mit freundlichen Grüssen
+Ihr NISSAN Team

@@ -259,7 +259,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                           alt="" height="63" /></td>
                       <td width="24"></td>
                       <td style="font-size:22px; font-weight:bold; line-height:24px; color: #fff;">
-                        <p style="text-transform: uppercase;">YOU+NISSAN neues Passwort Best&auml;tigung</p>
+                        <p style="text-transform: uppercase;">YOU+NISSAN Best&auml;tigung f&uuml;r neues Passwort</p>
                       </td>
                       <td class="space-63"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                           alt="spacer" /></td>
@@ -299,7 +299,9 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                                       <td width="18" style="max-width: 18;"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                           alt="spacer" /></td>
                                       <td style="text-align: center; font-size: 16px; color: #9f9f9f;">
-                                        <p>wir freuen uns, Ihnen mitteilen zu d&uuml;rfen, dass Ihr YOU+NISSAN Passwort zur&uuml;ckgesetzt wurde. Bitte klicken Sie auf den Link unten, um sich in Ihrem Konto anzumelden.</p>
+                                        <p>Ihr YOU+NISSAN Passwort wurde zur&uuml;ckgesetzt.</p>
+                                        <br/>
+                                        <p>Bitte klicken Sie auf den Link unten, um sich in Ihrem Konto anzumelden.</p>
                                       </td>
                                       <td width="18" style="max-width: 18;"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                           alt="spacer" /></td>
@@ -325,7 +327,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                                       <td style="width: calc((100% - 310px)/2);"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                           alt="spacer" /></td>
                                       <td bgcolor="#c3002f" height="40" width="308" style="text-align: center; color: #fff; font-weight: bold;"><a
-                                          href="https://www.nissan.de" style="font-size: 14px; color: #fff; text-decoration: none; text-transform: uppercase;">Mein Passwort hier zur&uuml;cksetzen<br /> </a></td>
+                                          href="https://www.nissan.de" style="font-size: 14px; color: #fff; text-decoration: none; text-transform: uppercase;">YOU+NISSAN besuchen<br /> </a></td>
                                       <td style="width: calc((100% - 310px)/2);"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                           alt="spacer" /></td>
                                     </tr>
@@ -352,7 +354,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                                           alt="spacer" style="max-width: 3px;" /></td>
                                       <td style="font-size: 16px; color: #9f9f9f;">
                                         <p>
-                                          Mit freundlichen Gr&uuml;&szlig;en <br>Das YOU+NISSAN Team</p>
+                                          Mit freundlichen Gr&uuml;ssen<br>Ihr NISSAN Team</p>
                                       </td>
                                       <td width="3"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                           alt="spacer" style="max-width: 3px;" /></td>

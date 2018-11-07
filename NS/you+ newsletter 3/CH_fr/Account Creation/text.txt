@@ -3,17 +3,17 @@
 
 
 
-Bonjour [titre + Prénom + Nom],
+Bonjour,
 
-Merci pour votre inscription sur You+Nissan, votre plateforme personnalisée de services client. Grâce à You+Nissan, montez des pneus hiver, demandez un véhicule de remplacement ou trouvez le concessionnaire le plus proche. Nous sommes à votre disposition au quotidien pour répondre à vos besoins et à vos demandes.
+Merci pour votre inscription sur YOU+NISSAN, votre plateforme personnalisée de services client.
 
-Pour commencer à profiter des services You+Nissan, veuillez activer votre compte en vous connectant grâce au lien ci-dessous.
+Pour commencer à profiter des services YOU+NISSAN, veuillez activer votre compte en vous connectant grâce au lien ci-dessous.
 
 [CTA - Activer mon compte ici]
 
 Bien cordialement,
 
-L’équipe You+Nissan
+L’équipe YOU+NISSAN
 
 
 

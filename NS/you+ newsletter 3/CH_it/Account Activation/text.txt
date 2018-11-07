@@ -2,7 +2,7 @@
 <%@ include view='MirrorPageUrl' %>
 
 
-Ciao [nome],
+Ciao,
 
 grazie per aver attivato il tuo account YOU+NISSAN.
 
