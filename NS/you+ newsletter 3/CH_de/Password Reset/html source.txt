@@ -660,6 +660,25 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                   </tbody>
                 </table>
 
+                <table width="100%" align="center" style="MAX-WIDTH: 600px" cellspacing="0" cellpadding="0">
+                  <tbody>
+                    <tr>
+                      <td align="center" class="textT">
+
+                        <span style="FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #000001">
+                          Sie haben diese E-Mail bekommen, weil unter Angabe Ihrer E-Mail-Adresse eine Anfrage bei uns eingegangen ist. Sollte die Anfrage nicht von Ihnen stammen, k&ouml;nnen Sie uns dies an die E-Mail-Adresse switzerland@nissan-services.eu mitteilen. Wir werden die Bearbeitung der Anfrage dann so schnell wie m&ouml;glich stoppen. Wir verwenden die mitgeteilte E-Mail-Adresse im &Uuml;brigen nur f&uuml;r die Bearbeitung der Anfrage. Sie erhalten keine Werbung von uns an diese E-Mail-Adresse, sofern Sie nicht anderweitig Ihre Einwilligung erkl&auml;rt haben oder wir aufgrund gesetzlicher Regelungen hierzu berechtigt sind.
+
+                          <br><br>
+                          Diese Nachricht wurde von einer automatischen Adresse abgeschickt. Antworten Sie bitte nicht auf diese Nachricht.
+                          <br><br>
+                          Impressum: NISSAN Center Europe GmbH, Abt. Marketing, Renault-Nissan-Str. 6-10, 50321 Br&uuml;hl. Inhaltlich verantwortlich: Gesch&auml;ftsf&uuml;hrer: Guillaume Pelletreau. Sitz der Gesellschaft: Br&uuml;hl, Bez. K&ouml;ln, Amtsgericht K&ouml;ln, HRB-Nr.: 58253, USt.IdNr.: DE 814 763 619. Niederlassung Schweiz: Nissan Center Europe GmbH (Br&uuml;hl) Zweigniederlassung Urdorf: Bergmoostrasse 4, 8902 Urdorf. Kontakt: E-Mail: switzerland@nissan-services.eu, Tel.: 0800 86 09 00 (kostenfrei innerhalb der Schweiz), Tel.: +41 44 73 65 550 (aus dem Ausland), Montag-Freitag 9-17 Uhr.
+                          <br><br>
+                          &copy; 2018 NISSAN
+                          <br><br></span></td>
+                    </tr>
+                  </tbody>
+                </table>
+
                 <table cellpadding="0" cellspacing="0" width="100%">
                   <tbody>
                     <tr height="55">

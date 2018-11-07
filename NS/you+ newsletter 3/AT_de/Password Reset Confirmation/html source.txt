@@ -195,7 +195,8 @@
 body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
 </style>
 <![endif]-->
-<meta charset="utf-8"></HEAD>
+  <meta charset="utf-8">
+</HEAD>
 
 <body>
   <%@ include view='nissanInitVariablesMc' %>
@@ -259,7 +260,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                           alt="" height="63" /></td>
                       <td width="24"></td>
                       <td style="font-size:22px; font-weight:bold; line-height:24px; color: #fff;">
-                        <p style="text-transform: uppercase;">YOU+NISSAN Passwort zur&uuml;cksetzen</p>
+                        <p style="text-transform: uppercase;">YOU+NISSAN neues Passwort Best&auml;tigung</p>
                       </td>
                       <td class="space-63"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                           alt="spacer" /></td>
@@ -299,7 +300,9 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                                       <td width="18" style="max-width: 18;"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                           alt="spacer" /></td>
                                       <td style="text-align: center; font-size: 16px; color: #9f9f9f;">
-                                        <p>wir haben Ihre Anfrage zum Zur&uuml;cksetzen Ihres YOU+NISSAN Passworts erhalten. Bitte klicken Sie auf den Link, um Ihr Passwort zur&uuml;ckzusetzen.</p>
+                                        <p>wir freuen uns, Ihnen mitteilen zu d&uuml;rfen, dass Ihr YOU+NISSAN Passwort
+                                          zur&uuml;ckgesetzt wurde. Bitte klicken Sie auf den Link unten, um sich in
+                                          Ihrem Konto anzumelden.</p>
                                       </td>
                                       <td width="18" style="max-width: 18;"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                           alt="spacer" /></td>
@@ -325,7 +328,8 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                                       <td style="width: calc((100% - 310px)/2);"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                           alt="spacer" /></td>
                                       <td bgcolor="#c3002f" height="40" width="308" style="text-align: center; color: #fff; font-weight: bold;"><a
-                                          href="https://www.nissan.de" style="font-size: 14px; color: #fff; text-decoration: none; text-transform: uppercase;">Mein Passwort hier zur&uuml;cksetzen<br /> </a></td>
+                                          href="https://www.nissan.de" style="font-size: 14px; color: #fff; text-decoration: none; text-transform: uppercase;">Mein
+                                          Passwort hier zur&uuml;cksetzen<br /> </a></td>
                                       <td style="width: calc((100% - 310px)/2);"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                           alt="spacer" /></td>
                                     </tr>
@@ -333,27 +337,8 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                                 </table>
                               </td>
                             </tr>
-                            <tr height="25">
-                              <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
-                                  alt="spacer" /></td>
-                            </tr>
-                            <tr>
-                              <td>
-                                <table cellpadding="0" cellspacing="0" width="100%">
-                                  <tbody>
-                                    <tr>
-                                      <td width="42" style="max-width: 42;"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
-                                          alt="spacer" /></td>
-                                      <td style="text-align: center; font-size: 16px; color: #9f9f9f;">
-                                        <p>Wenn Sie Ihr Passwort nicht zur&uuml;cksetzen m&ouml;chten, k&ouml;nnen Sie diese E-Mail ignorieren.</p>
-                                      </td>
-                                      <td width="42" style="max-width: 42;"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
-                                          alt="spacer" /></td>
-                                    </tr>
-                                  </tbody>
-                                </table>
-                              </td>
-                            </tr>
+
+
                             <tr height="41">
                               <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                   alt="spacer" /></td>
@@ -554,14 +539,17 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                         </tr>
                         <tr>
                           <td style="font-size: 16px; font-weight: bold; color: #000000; text-align: center;">
-                            <p style="line-height: 18px; text-transform: uppercase;">H&auml;ndler kontaktieren<br /> <br /></p>
+                            <p style="line-height: 18px; text-transform: uppercase;">H&auml;ndler kontaktieren<br />
+                              <br /></p>
                           </td>
                         </tr>
                         <tr class="line-center-in-contact"> </tr>
                         <tr>
                           <td style="font-size: 14px; color: #9f9f9f; text-align: center;">
-                            <p style="line-height: 21px;">Es gibt auch in Ihrer N&auml;he einen NISSAN H&auml;ndler. Hier
-                              erfahren Sie die Adresse und Kontaktinformationen. Ihr H&auml;ndler hilft Ihnen gerne weiter.
+                            <p style="line-height: 21px;">Es gibt auch in Ihrer N&auml;he einen NISSAN H&auml;ndler.
+                              Hier
+                              erfahren Sie die Adresse und Kontaktinformationen. Ihr H&auml;ndler hilft Ihnen gerne
+                              weiter.
                               <br /></p>
                           </td>
                         </tr>
@@ -670,6 +658,25 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                   </tbody>
                 </table>
 
+                <table width="100%" align="center" style="MAX-WIDTH: 600px" cellspacing="0" cellpadding="0">
+                  <tbody>
+                    <tr>
+                      <td align="center" class="textT">
+
+                        <span style="FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #000001">
+                          Sie haben diese E-Mail bekommen, weil unter Angabe Ihrer E-Mail-Adresse eine Anfrage bei uns eingegangen ist. Sollte die Anfrage nicht von Ihnen stammen, k&ouml;nnen Sie uns dies an die E-Mail-Adresse austria@nissan-services.eu mitteilen. Wir werden die Bearbeitung der Anfrage dann so schnell wie m&ouml;glich stoppen. Wir verwenden die mitgeteilte E-Mail-Adresse im &Uuml;brigen nur f&uuml;r die Bearbeitung der Anfrage. Sie erhalten keine Werbung von uns an diese E-Mail-Adresse, sofern Sie nicht anderweitig Ihre Einwilligung erkl&auml;rt haben oder wir aufgrund gesetzlicher Regelungen hierzu berechtigt sind.
+
+                          <br><br>
+                          Diese Nachricht wurde von einer automatischen Adresse abgeschickt. Antworten Sie bitte nicht auf diese Nachricht.
+                          <br><br>
+                          Impressum: Nissan Center Europe GmbH, Renault-Nissan-Stra&szlig;e 6-10, 50321 Br&uuml;hl-Deutschland, HRB 58253, Amtsgericht K&ouml;ln; Nissan Center Europe GmbH, Niederlassung &Ouml;sterreich, FN 286642i, Handelsgericht Wien, DVR-Nr.: 0007978. Kontakt: E-Mail:austria@nissan-services.eu, Tel.: 0800 / 21 53 80 (kostenfrei innerhalb &Ouml;sterreichs), Tel.: +43 190 / 57 77 77 (aus dem Ausland), Montag-Freitag 9-17 Uhr.
+                          <br><br>
+                          &copy; 2018 NISSAN
+                          <br><br></span></td>
+                    </tr>
+                  </tbody>
+                </table>
+
                 <table cellpadding="0" cellspacing="0" width="100%">
                   <tbody>
                     <tr height="55">
@@ -680,12 +687,12 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                       <td>
                         <div class="row" style="width: 507px !important; margin: 0px auto;">
                           <!--[if mso | IE]>
-    <table cellpadding="0" cellspacing="0" width="100%">
-    <tbody>
-    <tr>
-    <td width="15"></td>
-    <td>
-    <![endif]-->
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody>
+<tr>
+<td width="15"></td>
+<td>
+<![endif]-->
                           <div class="col" style="display: inline-block;">
                             <table cellpadding="0" cellspacing="0">
                               <tbody>
@@ -712,9 +719,9 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                             </table>
                           </div>
                           <!--[if mso | IE]>
-    </td>
-    <td>
-    <![endif]-->
+</td>
+<td>
+<![endif]-->
                           <div class="col" style="display: inline-block;">
                             <table cellpadding="0" cellspacing="0">
                               <tbody>
@@ -722,8 +729,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                                   <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                   <td class="font-size-18" style="text-decoration: underline !important; color: #5b5b5b;font-size:15px !important;"><a
-                                      href="https://www.nissan.at/rechtliches/agb.html" style="color: #5b5b5b;">Rechtliche Hinweise
-                                      </a></td>
+                                      href="https://www.nissan.at/rechtliches/agb.html" style="color: #5b5b5b;">Rechtliche Hinweise</a></td>
                                   <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                   <td width="2"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/gray-line.png"
@@ -731,8 +737,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                                   <td width="10"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                   <td class="font-size-18" style="text-decoration: underline !important; color: #5b5b5b;font-size:15px !important;"><a
-                                      href="https://www.nissan.at/kundenservice/kontakt.html" style="color: #5b5b5b;">Kontakt
-                                      </a></td>
+                                      href="https://www.nissan.at/kundenservice/kontakt.html" style="color: #5b5b5b;">Kontakt </a></td>
                                   <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                 </tr>
@@ -740,11 +745,11 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                             </table>
                           </div>
                           <!--[if mso | IE]>
-    </td>
-    </tr>
-    </tbody>
-    </table>
-    <![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+<![endif]-->
                         </div>
                       </td>
                     </tr>

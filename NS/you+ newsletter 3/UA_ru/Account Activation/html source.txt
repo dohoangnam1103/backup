@@ -753,6 +753,7 @@ cellPadding=0>
                       </tr>
                     </tbody>
                   </table>
+
                   <table cellpadding="0" cellspacing="0" width="100%">
                     <tbody>
                       <tr height="55">
@@ -784,7 +785,8 @@ cellPadding=0>
                                     <td width="10"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td class="font-size-18" style="text-decoration: underline !important; color: #5b5b5b;font-size:15px !important;"><a
-                                        href="https://www.nissan.ua/legal/cookies.html" style="color: #5b5b5b;">Файли cookie</a></td>
+                                        href="https://www.nissan.ua/legal/cookies.html" style="color: #5b5b5b;">
+                                       Файли cookie</a></td>
                                     <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td width="2"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/gray-line.png"
@@ -804,7 +806,8 @@ cellPadding=0>
                                     <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td class="font-size-18" style="text-decoration: underline !important; color: #5b5b5b;font-size:15px !important;"><a
-                                        href="https://www.nissan.ua/legal/terms-conditions.html" style="color: #5b5b5b;">Правила та умови </a></td>
+                                        href="https://www.nissan.ua/legal/terms-conditions.html" style="color: #5b5b5b;">Правила та умови
+                                        </a></td>
                                     <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td width="2"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/gray-line.png"
@@ -812,7 +815,8 @@ cellPadding=0>
                                     <td width="10"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td class="font-size-18" style="text-decoration: underline !important; color: #5b5b5b;font-size:15px !important;"><a
-                                        href="https://www.nissan.ua/customer-service/contact-us.html" style="color: #5b5b5b;">Контакти </a></td>
+                                        href="https://www.nissan.ua/customer-service/contact-us.html" style="color: #5b5b5b;">Контакти
+                                        </a></td>
                                     <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                   </tr>

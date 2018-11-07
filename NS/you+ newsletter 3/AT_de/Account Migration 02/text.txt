@@ -9,7 +9,7 @@ mit dieser Nachricht möchten wir Sie daran erinnern, dass Sie Ihr Passwort aktu
 
 Das aktuelle Upgrade der YOU+NISSAN Plattform ist Teil unserer ständigen Bemühungen, die Services, das Design und die Sicherheit zu verbessern.
 
-Bitte ändern Sie Ihr Passwort binnen X Tagen. Klicken Sie dazu auf den folgenden Link:
+Bitte ändern Sie Ihr Passwort binnen 5 Tagen. Klicken Sie dazu auf den folgenden Link:
 [Neues Passwort erstellen]
 
 Falls der Link oben nicht korrekt angezeigt wird, kopieren Sie bitte den folgenden Link in die Adresszeile Ihres Browsers: [Link]

@@ -194,6 +194,7 @@
 body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
 </style>
 <![endif]-->
+
 <meta charset="utf-8"></head>
 
 <BODY>
@@ -211,9 +212,11 @@ cellPadding=0>
         <td align="center">
           <table align="center" cellpadding="0" cellspacing="0" bgcolor="#ffffff" width="100%" style="max-width: 600px;">
             <tr>
-              <td class="textT" align="center"><span style="color:#000001; font-size:9px; font-family:Arial, Helvetica, sans-serif;"><b>Добро пожаловать в Nissan</b><br /><br />
-                Если это электронное письмо отображается некорректно, <a href="&lt;%@ include view='MirrorPageUrl' %&gt;"
-                    target="_blank" title="click here" style="font-family:Arial; font-size:9px; color:#000001;" _label="click here">щелкните здесь.</a><br /><br /></span></td>
+              <td class="textT" align="center"><span style="color:#000001; font-size:9px; font-family:Arial, Helvetica, sans-serif;"><b>Добро
+                    пожаловать в Nissan</b><br /><br />
+                  Если это электронное письмо отображается некорректно, <a href="&lt;%@ include view='MirrorPageUrl' %&gt;"
+                    target="_blank" title="click here" style="font-family:Arial; font-size:9px; color:#000001;" _label="click here">щелкните
+                    здесь.</a><br /><br /></span></td>
             </tr>
           </table>
           <table cellpadding="0" cellspacing="0" width="100%">
@@ -262,7 +265,8 @@ cellPadding=0>
                               </TR>
                               <TR>
                                 <TD style="COLOR: #010101; TEXT-ALIGN: center">
-                                  <P style="FONT-SIZE: 19px; TEXT-TRANSFORM: uppercase; FONT-WEIGHT: bold">Вітаємо, [ім&rsquo;я]!</P>
+                                  <P style="FONT-SIZE: 19px; TEXT-TRANSFORM: uppercase; FONT-WEIGHT: bold">Вітаємо,
+                                    [ім&rsquo;я]!</P>
                                 </TD>
                               </TR>
                               <TR height=16>
@@ -275,7 +279,11 @@ cellPadding=0>
                                       <TR>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                         <TD style="FONT-SIZE: 16px; COLOR: #9f9f9f; TEXT-ALIGN: center">
-                                          <P>Дякуємо за реєстрацію облікового запису You+Nissan, Вашого персоналізованого центру клієнтського обслуговування. Служба You+Nissan допоможе записатися на технічне обслуговування автомобіля, встановити зимові шини, отримати підмінний автомобіль або ж просто знайти найближчий дилерський центр. Ми радо допоможемо Вам у будь-яких питаннях.</P>
+                                          <P>Дякуємо за реєстрацію облікового запису You+Nissan, Вашого
+                                            персоналізованого центру клієнтського обслуговування. Служба You+Nissan
+                                            допоможе записатися на технічне обслуговування автомобіля, встановити
+                                            зимові шини, отримати підмінний автомобіль або ж просто знайти найближчий
+                                            дилерський центр. Ми радо допоможемо Вам у будь-яких питаннях.</P>
                                         </TD>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                       </TR>
@@ -293,7 +301,8 @@ cellPadding=0>
                                       <TR>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                         <TD style="FONT-SIZE: 16px; COLOR: #9f9f9f; TEXT-ALIGN: center">
-                                          <P>Щоб почати користуватися перевагами You+Nissan, активуйте свій обліковий запис, увійшовши в нього за наведеним нижче посиланням.</P>
+                                          <P>Щоб почати користуватися перевагами You+Nissan, активуйте свій обліковий
+                                            запис, увійшовши в нього за наведеним нижче посиланням.</P>
                                         </TD>
                                         <TD style="MAX-WIDTH: 0px"><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                       </TR>
@@ -315,13 +324,33 @@ cellPadding=0>
                                         <TD><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                         <TD width=308 height=40 style="FONT-WEIGHT: bold; COLOR: #fff; TEXT-ALIGN: center"
                                           bgColor=#c3002f><a style="FONT-SIZE: 14px; TEXT-DECORATION: none; TEXT-TRANSFORM: uppercase; COLOR: #fff"
-                                            href="https://www.nissan.fr">Заклик до дії: <BR> активація облікового запису </A></TD>
+                                            href="https://www.nissan.fr">Заклик до дії: <BR> активація облікового
+                                            запису </A></TD>
                                         <TD><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                                       </TR>
                                     </TBODY>
                                   </TABLE>
                                 </TD>
                               </TR>
+                              <tr height="24">
+                                <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif" alt="spacer" style="max-height: 24px;"></td>
+                              </tr>
+                              <tr>
+                                <td>
+                                  <table cellpadding="0" cellspacing="0" width="100%">
+                                    <tbody>
+                                      <tr>
+                                        <td width="3"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif" alt="spacer" style="max-width: 3px;"></td>
+                                        <td style="font-size: 16px; color: #9f9f9f;">
+                                          <p>
+                                            З повагою, </p><p>Команда You+Nissan</p>
+                                        </td>
+                                        <td width="3"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif" alt="spacer" style="max-width: 3px;"></td>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
                               <TR height=41>
                                 <TD><IMG alt=spacer src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></TD>
                               </TR>
@@ -389,7 +418,8 @@ cellPadding=0>
                                   <TR class=line-center-in-contact></TR>
                                   <TR>
                                     <TD style="FONT-SIZE: 14px; COLOR: #9f9f9f; TEXT-ALIGN: center">
-                                      <P style="LINE-HEIGHT: 21px">Користуйтеся своїми підключеними службами на повну. Ознайомтеся зі всіма інформаційно-розважальними системами наших автомобілів.
+                                      <P style="LINE-HEIGHT: 21px">Користуйтеся своїми підключеними службами на повну.
+                                        Ознайомтеся зі всіма інформаційно-розважальними системами наших автомобілів.
                                         <BR></P>
                                     </TD>
                                   </TR>
@@ -439,7 +469,8 @@ cellPadding=0>
                                   <TR class=line-center-in-contact></TR>
                                   <TR>
                                     <TD style="FONT-SIZE: 14px; COLOR: #9f9f9f; TEXT-ALIGN: center">
-                                      <P style="LINE-HEIGHT: 21px">Відвідуйте веб-сайт You+Nissan і дізнавайтеся про унікальні пропозиції для власників автомобілів Nissan.<BR></P>
+                                      <P style="LINE-HEIGHT: 21px">Відвідуйте веб-сайт You+Nissan і дізнавайтеся про
+                                        унікальні пропозиції для власників автомобілів Nissan.<BR></P>
                                     </TD>
                                   </TR>
                                   <TR height=22>
@@ -631,7 +662,9 @@ cellPadding=0>
                           <tr class="line-center-in-contact"> </tr>
                           <tr>
                             <td style="font-size: 14px; color: #9f9f9f; text-align: center;">
-                              <p style="line-height: 21px;">У вашій місцевості є дилер Nissan. Тут ви зможете знайти його адресу, години роботи й контактні дані. Представники дилерського центру будуть раді допомогти Вам. <br /></p>
+                              <p style="line-height: 21px;">У вашій місцевості є дилер Nissan. Тут ви зможете знайти
+                                його адресу, години роботи й контактні дані. Представники дилерського центру будуть
+                                раді допомогти Вам. <br /></p>
                             </td>
                           </tr>
                         </tbody>
@@ -738,6 +771,7 @@ cellPadding=0>
                       </tr>
                     </tbody>
                   </table>
+
                   <table cellpadding="0" cellspacing="0" width="100%">
                     <tbody>
                       <tr height="55">
@@ -769,7 +803,8 @@ cellPadding=0>
                                     <td width="10"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td class="font-size-18" style="text-decoration: underline !important; color: #5b5b5b;font-size:15px !important;"><a
-                                        href="https://www.nissan.ua/legal/cookies.html" style="color: #5b5b5b;">Файли cookie</a></td>
+                                        href="https://www.nissan.ua/legal/cookies.html" style="color: #5b5b5b;">
+                                       Файли cookie</a></td>
                                     <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td width="2"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/gray-line.png"
@@ -789,7 +824,8 @@ cellPadding=0>
                                     <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td class="font-size-18" style="text-decoration: underline !important; color: #5b5b5b;font-size:15px !important;"><a
-                                        href="https://www.nissan.ua/legal/terms-conditions.html" style="color: #5b5b5b;">Правила та умови </a></td>
+                                        href="https://www.nissan.ua/legal/terms-conditions.html" style="color: #5b5b5b;">Правила та умови
+                                        </a></td>
                                     <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td width="2"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/gray-line.png"
@@ -797,7 +833,8 @@ cellPadding=0>
                                     <td width="10"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                     <td class="font-size-18" style="text-decoration: underline !important; color: #5b5b5b;font-size:15px !important;"><a
-                                        href="https://www.nissan.ua/customer-service/contact-us.html" style="color: #5b5b5b;">Контакти </a></td>
+                                        href="https://www.nissan.ua/customer-service/contact-us.html" style="color: #5b5b5b;">Контакти
+                                        </a></td>
                                     <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                         alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                   </tr>

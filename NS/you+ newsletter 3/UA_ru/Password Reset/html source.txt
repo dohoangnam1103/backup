@@ -218,15 +218,15 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
         <table cellpadding="0" cellspacing="0" width="100%">
           <tbody>
             <tr>
-              <td width="24"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+              <td width="24"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                   alt="spacer" /></td>
-              <td width="80"><a href="https://www.nissan.ua"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/logo-nissan.png"
+              <td width="80"><a href="https://www.nissan.ua"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/logo-nissan.png"
                     alt="logo-nissan" /></a></td>
               <td align="right">
                 <div style="height: 12px;"></div><img class="img-header" src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/logo-youplus.png"
                   alt="logo-nissan-you-plus" style="max-width: 90%;" />
               </td>
-              <td width="24"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+              <td width="24"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                   alt="spacer" /></td>
             </tr>
           </tbody>
@@ -238,7 +238,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
         <table width="100%" cellpadding="0" cellspacing="0">
           <tbody>
             <tr height="50">
-              <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+              <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                   alt="spacer" /></td>
             </tr>
           </tbody>
@@ -250,15 +250,15 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                 <table cellpadding="0" cellspacing="0" width="100%" bgcolor="#58585a">
                   <tbody>
                     <tr height="85">
-                      <td class="space-31"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                      <td class="space-31"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                           alt="spacer" /></td>
-                      <td width="10%" align="right"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-key.png"
+                      <td width="10%" align="right"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-key.png"
                           alt="" height="63" /></td>
                       <td width="24"></td>
                       <td style="font-size:22px; font-weight:bold; line-height:24px; color: #fff;">
-                        <p style="text-transform: uppercase;">Скидання пароля You+Nissan</p>
+                        <p style="text-transform: uppercase;">Зміна пароля You+Nissan</p>
                       </td>
-                      <td class="space-31"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                      <td class="space-31"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                           alt="spacer" /></td>
                     </tr>
                   </tbody>
@@ -270,13 +270,13 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                 <table cellpadding="0" cellspacing="0" width="100%">
                   <tbody>
                     <tr>
-                      <td class="space-60"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                      <td class="space-60"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                           alt="spacer" /></td>
                       <td>
                         <table cellpadding="0" cellspacing="0" width="100%">
                           <tbody>
                             <tr height="57">
-                              <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                              <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                   alt="spacer" /></td>
                             </tr>
                             <tr>
@@ -285,7 +285,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                               </td>
                             </tr>
                             <tr height="10">
-                              <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                              <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                   alt="spacer" style="max-height: 10px;" /></td>
                             </tr>
                             <tr>
@@ -293,12 +293,12 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                                 <table cellpadding="0" cellspacing="0" width="100%">
                                   <tbody>
                                     <tr>
-                                      <td width="20" style="max-width: 20;"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                      <td width="20" style="max-width: 20;"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                           alt="spacer" /></td>
                                       <td style="text-align: center; font-size: 16px; color: #9f9f9f;">
                                         <p>Ми отримали від Вас запит на скидання пароля You+Nissan. Щоб скинути пароль, перейдіть за наведеним нижче посиланням.</p>
                                       </td>
-                                      <td width="20" style="max-width: 20;"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                      <td width="20" style="max-width: 20;"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                           alt="spacer" /></td>
                                     </tr>
                                   </tbody>
@@ -306,11 +306,11 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                               </td>
                             </tr>
                             <tr height="25">
-                              <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                              <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                   alt="spacer" /></td>
                             </tr>
                             <tr height="27">
-                              <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                              <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                   alt="spacer" style="max-height: 27px;" /></td>
                             </tr>
                             <tr>
@@ -318,11 +318,11 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                                 <table cellpadding="0" cellspacing="0" width="100%">
                                   <tbody>
                                     <tr>
-                                      <td style="width: calc((100% - 310px)/2);"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                      <td style="width: calc((100% - 310px)/2);"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                           alt="spacer" /></td>
                                       <td bgcolor="#c3002f" height="40" width="308" style="text-align: center; color: #fff; font-weight: bold;"><a
                                           href="<%= rtEvent.ctx.url%>" style="font-size: 14px; color: #fff; text-decoration: none; text-transform: uppercase;">Заклик до дії: скидання пароля <br /> </a></td>
-                                      <td style="width: calc((100% - 310px)/2);"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                      <td style="width: calc((100% - 310px)/2);"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                           alt="spacer" /></td>
                                     </tr>
                                   </tbody>
@@ -330,7 +330,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                               </td>
                             </tr>
                             <tr height="41">
-                              <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                              <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                   alt="spacer" /></td>
                             </tr>
                             <tr>
@@ -338,12 +338,12 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                                 <table cellpadding="0" cellspacing="0" width="100%">
                                   <tbody>
                                     <tr>
-                                      <td width="20" style="max-width: 20;"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                      <td width="20" style="max-width: 20;"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                           alt="spacer" /></td>
                                       <td style="text-align: center; font-size: 16px; color: #9f9f9f;">
                                         <p>Якщо Ви не надсилали запит на скидання пароля, проігноруйте цей лист.</p>
                                       </td>
-                                      <td width="20" style="max-width: 20;"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                      <td width="20" style="max-width: 20;"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                           alt="spacer" /></td>
                                     </tr>
                                   </tbody>
@@ -351,7 +351,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                               </td>
                             </tr>
                             <tr height="24">
-                              <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                              <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                   alt="spacer" style="max-height: 24px;" /></td>
                             </tr>
                             <tr>
@@ -359,13 +359,13 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                                 <table cellpadding="0" cellspacing="0" width="100%">
                                   <tbody>
                                     <tr>
-                                      <td width="3"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                      <td width="3"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                           alt="spacer" style="max-width: 3px;" /></td>
                                       <td style="font-size: 16px; color: #9f9f9f;">
                                         <p>
-                                          З повагою, <br>Команда You+Nissan</p>
+                                          З повагою, <p>Команда You+Nissan</p>
                                       </td>
-                                      <td width="3"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                      <td width="3"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                           alt="spacer" style="max-width: 3px;" /></td>
                                     </tr>
                                   </tbody>
@@ -373,13 +373,13 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                               </td>
                             </tr>
                             <tr height="45">
-                              <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                              <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                   alt="spacer" /></td>
                             </tr>
                           </tbody>
                         </table>
                       </td>
-                      <td class="space-60"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                      <td class="space-60"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                           alt="spacer" /></td>
                     </tr>
                   </tbody>
@@ -395,7 +395,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
         <table cellpadding="0" cellspacing="0" width="100%">
           <tbody>
             <tr height="21">
-              <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+              <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                   alt="spacer" /></td>
             </tr>
             <tr>
@@ -404,7 +404,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
               </td>
             </tr>
             <tr height="27">
-              <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+              <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                   alt="spacer" /></td>
             </tr>
           </tbody>
@@ -412,7 +412,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
         <table cellpadding="0" cellspacing="0" width="100%">
           <tbody>
             <tr>
-              <td width="36"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+              <td width="36"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                   alt="spacer" /></td>
               <td>
                 <div class="row">
@@ -429,11 +429,11 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                             <table cellpadding="0" cellspacing="0" width="100%">
                               <tbody>
                                 <tr>
-                                  <td width="40%" height="1px"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                  <td width="40%" height="1px"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px;" /></td>
-                                  <td><a href="tel:0800303307"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-phone.png"
+                                  <td><a href="tel:0800303307"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-phone.png"
                                         alt="" /></a></td>
-                                  <td width="40%" height="1px"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                  <td width="40%" height="1px"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px;" /></td>
                                 </tr>
                               </tbody>
@@ -441,7 +441,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                           </td>
                         </tr>
                         <tr height="25">
-                          <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                          <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                               alt="spacer" style="max-height: 25px;" /></td>
                         </tr>
                         <tr>
@@ -464,7 +464,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
 <td width="16" height="20">
 <![endif]-->
                   <div class="col space block3col_space" style="display: inline-block; vertical-align: top; font-size: 0; min-width:3.05%; max-width:100%; width:-webkit-calc(358801px - 59900%); width:calc(358801px - 59900%);"><img
-                      src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                      src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                       alt="" width="16" height="20" /></div>
                   <!--[if mso | IE]>
 </td>
@@ -478,11 +478,11 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                             <table cellpadding="0" cellspacing="0" width="100%">
                               <tbody>
                                 <tr>
-                                  <td width="40%" height="1px"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                  <td width="40%" height="1px"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px;" /></td>
-                                  <td><a href="https://www.nissan.ua/customer-service/contact-us/ask-a-question.html"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-email.png"
+                                  <td><a href="https://www.nissan.ua/customer-service/contact-us/ask-a-question.html"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-email.png"
                                         alt="" /></a></td>
-                                  <td width="40%" height="1px"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                  <td width="40%" height="1px"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px;" /></td>
                                 </tr>
                               </tbody>
@@ -490,7 +490,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                           </td>
                         </tr>
                         <tr height="25">
-                          <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                          <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                               alt="spacer" style="max-height: 25px;" /></td>
                         </tr>
                         <tr>
@@ -513,7 +513,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
 <td width="16" height="20">
 <![endif]-->
                   <div class="col space block3col_space" style="display: inline-block; vertical-align: top; font-size: 0; min-width:3.05%; max-width:100%; width:-webkit-calc(358801px - 59900%); width:calc(358801px - 59900%);"><img
-                      src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                      src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                       alt="" width="16" height="20" /></div>
                   <!--[if mso | IE]>
 </td>
@@ -527,11 +527,11 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                             <table cellpadding="0" cellspacing="0" width="100%">
                               <tbody>
                                 <tr>
-                                  <td width="40%" height="1px"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                  <td width="40%" height="1px"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px;" /></td>
-                                  <td><a href="https://www.nissan.ua/dealer-locator.html"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-location.png"
+                                  <td><a href="https://www.nissan.ua/dealer-locator.html"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/icon-location.png"
                                         alt="" /></a></td>
-                                  <td width="40%" height="1px"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                  <td width="40%" height="1px"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px;" /></td>
                                 </tr>
                               </tbody>
@@ -539,7 +539,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                           </td>
                         </tr>
                         <tr height="25">
-                          <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                          <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                               alt="spacer" style="max-height: 25px;" /></td>
                         </tr>
                         <tr>
@@ -564,7 +564,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
 <![endif]-->
                 </div>
               </td>
-              <td width="36"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+              <td width="36"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                   alt="spacer" /></td>
             </tr>
           </tbody>
@@ -576,15 +576,15 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
         <table cellpadding="0" cellspacing="0" width="100%">
           <tbody>
             <tr height="23">
-              <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+              <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                   alt="spacer" /></td>
             </tr>
             <tr>
-              <td width="32"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+              <td width="32"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                   alt="spacer" /></td>
-              <td height="17" style="border-top: 1px solid #9f9f9f;"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+              <td height="17" style="border-top: 1px solid #9f9f9f;"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                   alt="spacer" style="max-height: 17px;" /></td>
-              <td width="32"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+              <td width="32"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                   alt="spacer" /></td>
             </tr>
           </tbody>
@@ -592,7 +592,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
         <table cellpadding="0" cellspacing="0" width="100%">
           <tbody>
             <tr>
-              <td width="50"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+              <td width="50"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                   alt="spacer" /></td>
               <td>
 
@@ -613,7 +613,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                   </div>
 
                   <div class="col space block3col_space" style="font-size: 0px; max-width: 100%; vertical-align: top; min-width: 3.05%; display: inline-block"><img
-                      width=1 height=10 alt="" src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></div>
+                      width=1 height=10 alt="" src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"></div>
                   <!--[if mso | IE]></td>
                       </tr>
                       </tbody>
@@ -621,7 +621,7 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
                     <![endif]-->
                 </div>
               </td>
-              <td width="50"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+              <td width="50"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                   alt="spacer" /></td>
             </tr>
           </tbody>
@@ -633,114 +633,118 @@ body, table, td {font-family: Arial, Helvetica, sans-serif !important;}
         <table cellpadding="0" cellspacing="0" width="100%">
           <tbody>
             <tr height="65">
-              <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+              <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                   alt="spacer" /></td>
             </tr>
             <tr>
-              <td width="34"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+              <td width="34"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                   alt="spacer" /></td>
               <td>
                 <table cellpadding="0" cellspacing="0" width="100%">
                   <tbody>
                     <tr>
-                      <td style="width: calc((100% - 186px)/2);"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                      <td style="width: calc((100% - 186px)/2);"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                           alt="spacer" /></td>
-                      <td width="93"><a href="https://www.facebook.com/nissan.ua"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/logo-facebook.png"
+                      <td width="93"><a href="https://www.facebook.com/nissan.ua"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/logo-facebook.png"
                             alt="logo-facebook" /></a></td>
                       <td width="93"><a href="https://www.youtube.com/channel/UCChxDCx6JMQy3Fy0VnWx25Q/videos"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/logo-youtube.png"
                             alt="logo-youtube" /></a></td>
-                      <td style="width: calc((100% - 186px)/2);"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                      <td style="width: calc((100% - 186px)/2);"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                           alt="spacer" /></td>
                     </tr>
                     <tr height="54">
-                      <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                      <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                           alt="spacer" /></td>
                     </tr>
                   </tbody>
                 </table>
+
                 <table cellpadding="0" cellspacing="0" width="100%">
                   <tbody>
                     <tr height="55">
-                      <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                      <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                           alt="spacer" /></td>
                     </tr>
                     <tr>
                       <td>
                         <div class="row" style="width: 542px !important; margin: 0 auto;">
                           <!--[if mso | IE]>
-<table cellpadding="0" cellspacing="0" width="100%">
-<tbody>
-<tr>
-<td width="15"></td>
-<td>
-<![endif]-->
+    <table cellpadding="0" cellspacing="0" width="100%">
+    <tbody>
+    <tr>
+    <td width="15"></td>
+    <td>
+    <![endif]-->
                           <div class="col" style="display: inline-block;">
                             <table cellpadding="0" cellspacing="0">
                               <tbody>
                                 <tr>
-                                  <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                  <td width="8"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                   <td class="font-size-18" style="text-decoration: underline !important; color: #5b5b5b;font-size:15px !important;"><a
                                       href="https://www.nissan.ua/legal/privacy.html" style="color: #5b5b5b;">Політика конфіденційності</a></td>
-                                  <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                  <td width="8"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
-                                  <td width="2"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/gray-line.png"
+                                  <td width="2"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/gray-line.png"
                                       alt="gray-line" /></td>
-                                  <td width="10"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                  <td width="10"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                   <td class="font-size-18" style="text-decoration: underline !important; color: #5b5b5b;font-size:15px !important;"><a
-                                      href="https://www.nissan.ua/legal/cookies.html" style="color: #5b5b5b;">Файли cookie</a></td>
-                                  <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                      href="https://www.nissan.ua/legal/cookies.html" style="color: #5b5b5b;">
+                                     Файли cookie</a></td>
+                                  <td width="8"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
-                                  <td width="2"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/gray-line.png"
+                                  <td width="2"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/gray-line.png"
                                       alt="gray-line" /></td>
                                 </tr>
                               </tbody>
                             </table>
                           </div>
                           <!--[if mso | IE]>
-</td>
-<td>
-<![endif]-->
+    </td>
+    <td>
+    <![endif]-->
                           <div class="col" style="display: inline-block;">
                             <table cellpadding="0" cellspacing="0">
                               <tbody>
                                 <tr>
-                                  <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                  <td width="8"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                   <td class="font-size-18" style="text-decoration: underline !important; color: #5b5b5b;font-size:15px !important;"><a
-                                      href="https://www.nissan.ua/legal/terms-conditions.html" style="color: #5b5b5b;">Правила та умови </a></td>
-                                  <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                      href="https://www.nissan.ua/legal/terms-conditions.html" style="color: #5b5b5b;">Правила та умови
+                                      </a></td>
+                                  <td width="8"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
-                                  <td width="2"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/gray-line.png"
+                                  <td width="2"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/gray-line.png"
                                       alt="gray-line" /></td>
-                                  <td width="10"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                  <td width="10"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                   <td class="font-size-18" style="text-decoration: underline !important; color: #5b5b5b;font-size:15px !important;"><a
-                                      href="https://www.nissan.ua/customer-service/contact-us.html" style="color: #5b5b5b;">Контакти </a></td>
-                                  <td width="8"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                                      href="https://www.nissan.ua/customer-service/contact-us.html" style="color: #5b5b5b;">Контакти
+                                      </a></td>
+                                  <td width="8"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                                       alt="spacer" style="max-height: 1px; max-width: 1px;" /></td>
                                 </tr>
                               </tbody>
                             </table>
                           </div>
                           <!--[if mso | IE]>
-</td>
-</tr>
-</tbody>
-</table>
-<![endif]-->
+    </td>
+    </tr>
+    </tbody>
+    </table>
+    <![endif]-->
                         </div>
                       </td>
                     </tr>
                     <tr height="100">
-                      <td><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+                      <td><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                           alt="spacer" /></td>
                     </tr>
                   </tbody>
                 </table>
               </td>
-              <td width="34"><img src="https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
+              <td width="34"><img src="https://www.nissan-cdn.net/content/dam/Nissan/nissan_europe/owners/email/automatic-email/spacer.gif"
                   alt="spacer" /></td>
             </tr>
           </tbody>

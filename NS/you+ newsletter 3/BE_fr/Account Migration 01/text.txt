@@ -9,7 +9,7 @@ La plate-forme You+Nissan évolue pour vous proposer des services encore plus pe
 
 Vous devez modifier votre mot de passe pour continuer à utiliser votre compte et gérer certaines fonctionnalités de votre véhicule.
 
-Veuillez changer votre mot de passe dans les X prochains jours en cliquant sur le lien suivant :
+Veuillez changer votre mot de passe dans les 5 prochains jours en cliquant sur le lien suivant :
 [Créer un nouveau mot de passe]
 
 Si le lien précédent ne s’affiche pas correctement, veuillez copier le lien suivant dans votre navigateur : [lien]

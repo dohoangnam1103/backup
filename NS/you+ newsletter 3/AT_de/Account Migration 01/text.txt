@@ -8,7 +8,7 @@ die YOU+NISSAN Plattform wurde weiterentwickelt, um Ihnen bessere Services, ein 
 
 Um Ihr Benutzerkonto weiterhin nutzen und Ihr Auto verwalten zu können, müssen Sie Ihr Passwort aktualisieren.
 
-Bitte ändern Sie Ihr Passwort binnen X Tagen. Klicken Sie dazu auf den folgenden Link:
+Bitte ändern Sie Ihr Passwort binnen 5 Tagen. Klicken Sie dazu auf den folgenden Link:
 [Neues Passwort erstellen]
 
 Falls der Link oben nicht korrekt angezeigt wird, kopieren Sie bitte den folgenden Link in die Adresszeile Ihres Browsers: [Link]
